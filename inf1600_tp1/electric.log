@@ -1,0 +1,3438 @@
+Electric Version 8.05
+--------------- 0 --------------
+  Sun Oct 06 16:52:09 EDT 2019
+Menu Activated: File | Open Library...
+--------------- 1 --------------
+  Sun Oct 06 16:52:19 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 2 --------------
+  Sun Oct 06 16:52:29 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 3 --------------
+  Sun Oct 06 16:52:58 EDT 2019
+ProcessKeyBinding 401 when=1570395178412 modifiers=0 code=47 char=67(g) false false
+--------------- 4 --------------
+  Sun Oct 06 16:52:58 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 5 --------------
+  Sun Oct 06 16:52:58 EDT 2019
+ProcessKeyBinding 400 when=1570395178412 modifiers=0 code=0 char=67(g) false false
+--------------- 6 --------------
+  Sun Oct 06 16:52:58 EDT 2019
+ProcessKeyBinding 402 when=1570395178518 modifiers=0 code=47 char=67(g) false false
+--------------- 7 --------------
+  Sun Oct 06 16:52:58 EDT 2019
+ProcessKeyBinding 401 when=1570395178740 modifiers=0 code=56 char=76(v) false false
+--------------- 8 --------------
+  Sun Oct 06 16:52:58 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 9 --------------
+  Sun Oct 06 16:52:58 EDT 2019
+ProcessKeyBinding 400 when=1570395178740 modifiers=0 code=0 char=76(v) false false
+--------------- 10 --------------
+  Sun Oct 06 16:52:58 EDT 2019
+ProcessKeyBinding 402 when=1570395178860 modifiers=0 code=56 char=76(v) false false
+--------------- 11 --------------
+  Sun Oct 06 16:52:59 EDT 2019
+ProcessKeyBinding 401 when=1570395179212 modifiers=0 code=47 char=67(g) false false
+--------------- 12 --------------
+  Sun Oct 06 16:52:59 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 13 --------------
+  Sun Oct 06 16:52:59 EDT 2019
+ProcessKeyBinding 400 when=1570395179212 modifiers=0 code=0 char=67(g) false false
+--------------- 14 --------------
+  Sun Oct 06 16:52:59 EDT 2019
+ProcessKeyBinding 402 when=1570395179357 modifiers=0 code=47 char=67(g) false false
+--------------- 15 --------------
+  Sun Oct 06 16:52:59 EDT 2019
+ProcessKeyBinding 401 when=1570395179687 modifiers=0 code=56 char=76(v) false false
+--------------- 16 --------------
+  Sun Oct 06 16:52:59 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 17 --------------
+  Sun Oct 06 16:52:59 EDT 2019
+ProcessKeyBinding 400 when=1570395179687 modifiers=0 code=0 char=76(v) false false
+--------------- 18 --------------
+  Sun Oct 06 16:52:59 EDT 2019
+ProcessKeyBinding 402 when=1570395179789 modifiers=0 code=56 char=76(v) false false
+--------------- 19 --------------
+  Sun Oct 06 16:53:00 EDT 2019
+ProcessKeyBinding 401 when=1570395180798 modifiers=0 code=47 char=67(g) false false
+--------------- 20 --------------
+  Sun Oct 06 16:53:00 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 21 --------------
+  Sun Oct 06 16:53:00 EDT 2019
+ProcessKeyBinding 400 when=1570395180798 modifiers=0 code=0 char=67(g) false false
+--------------- 22 --------------
+  Sun Oct 06 16:53:00 EDT 2019
+ProcessKeyBinding 402 when=1570395180922 modifiers=0 code=47 char=67(g) false false
+--------------- 23 --------------
+  Sun Oct 06 16:53:12 EDT 2019
+ProcessKeyBinding 401 when=1570395192836 modifiers=0 code=47 char=67(g) false false
+--------------- 24 --------------
+  Sun Oct 06 16:53:12 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 25 --------------
+  Sun Oct 06 16:53:12 EDT 2019
+ProcessKeyBinding 400 when=1570395192836 modifiers=0 code=0 char=67(g) false false
+--------------- 26 --------------
+  Sun Oct 06 16:53:20 EDT 2019
+ProcessKeyBinding 401 when=1570395200976 modifiers=0 code=47 char=67(g) false false
+--------------- 27 --------------
+  Sun Oct 06 16:53:20 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 28 --------------
+  Sun Oct 06 16:53:21 EDT 2019
+ProcessKeyBinding 400 when=1570395200976 modifiers=0 code=0 char=67(g) false false
+--------------- 29 --------------
+  Sun Oct 06 16:53:21 EDT 2019
+ProcessKeyBinding 402 when=1570395201097 modifiers=0 code=47 char=67(g) false false
+--------------- 30 --------------
+  Sun Oct 06 16:53:21 EDT 2019
+ProcessKeyBinding 401 when=1570395201473 modifiers=0 code=42 char=62(b) false false
+--------------- 31 --------------
+  Sun Oct 06 16:53:21 EDT 2019
+ProcessKeyBinding 400 when=1570395201473 modifiers=0 code=0 char=62(b) false false
+--------------- 32 --------------
+  Sun Oct 06 16:53:21 EDT 2019
+ProcessKeyBinding 402 when=1570395201595 modifiers=0 code=42 char=62(b) false false
+--------------- 33 --------------
+  Sun Oct 06 16:53:21 EDT 2019
+ProcessKeyBinding 401 when=1570395201991 modifiers=0 code=47 char=67(g) false false
+--------------- 34 --------------
+  Sun Oct 06 16:53:21 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 35 --------------
+  Sun Oct 06 16:53:22 EDT 2019
+ProcessKeyBinding 400 when=1570395201991 modifiers=0 code=0 char=67(g) false false
+--------------- 36 --------------
+  Sun Oct 06 16:53:22 EDT 2019
+ProcessKeyBinding 402 when=1570395202118 modifiers=0 code=47 char=67(g) false false
+--------------- 37 --------------
+  Sun Oct 06 16:53:24 EDT 2019
+ProcessKeyBinding 401 when=1570395204054 modifiers=0 code=42 char=62(b) false false
+--------------- 38 --------------
+  Sun Oct 06 16:53:24 EDT 2019
+ProcessKeyBinding 400 when=1570395204054 modifiers=0 code=0 char=62(b) false false
+--------------- 39 --------------
+  Sun Oct 06 16:53:24 EDT 2019
+ProcessKeyBinding 402 when=1570395204249 modifiers=0 code=42 char=62(b) false false
+--------------- 40 --------------
+  Sun Oct 06 16:53:24 EDT 2019
+ProcessKeyBinding 401 when=1570395204389 modifiers=0 code=47 char=67(g) false false
+--------------- 41 --------------
+  Sun Oct 06 16:53:24 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 42 --------------
+  Sun Oct 06 16:53:24 EDT 2019
+ProcessKeyBinding 400 when=1570395204389 modifiers=0 code=0 char=67(g) false false
+--------------- 43 --------------
+  Sun Oct 06 16:53:24 EDT 2019
+ProcessKeyBinding 402 when=1570395204528 modifiers=0 code=47 char=67(g) false false
+--------------- 44 --------------
+  Sun Oct 06 16:53:25 EDT 2019
+ProcessKeyBinding 401 when=1570395205254 modifiers=0 code=56 char=76(v) false false
+--------------- 45 --------------
+  Sun Oct 06 16:53:25 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 46 --------------
+  Sun Oct 06 16:53:25 EDT 2019
+ProcessKeyBinding 400 when=1570395205254 modifiers=0 code=0 char=76(v) false false
+--------------- 47 --------------
+  Sun Oct 06 16:53:25 EDT 2019
+ProcessKeyBinding 402 when=1570395205454 modifiers=0 code=56 char=76(v) false false
+--------------- 48 --------------
+  Sun Oct 06 16:53:25 EDT 2019
+ProcessKeyBinding 401 when=1570395205716 modifiers=0 code=47 char=67(g) false false
+--------------- 49 --------------
+  Sun Oct 06 16:53:25 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 50 --------------
+  Sun Oct 06 16:53:25 EDT 2019
+ProcessKeyBinding 400 when=1570395205716 modifiers=0 code=0 char=67(g) false false
+--------------- 51 --------------
+  Sun Oct 06 16:53:25 EDT 2019
+ProcessKeyBinding 402 when=1570395205878 modifiers=0 code=47 char=67(g) false false
+--------------- 52 --------------
+  Sun Oct 06 16:53:29 EDT 2019
+ProcessKeyBinding 401 when=1570395209938 modifiers=0 code=56 char=76(v) false false
+--------------- 53 --------------
+  Sun Oct 06 16:53:29 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 54 --------------
+  Sun Oct 06 16:53:29 EDT 2019
+ProcessKeyBinding 400 when=1570395209938 modifiers=0 code=0 char=76(v) false false
+--------------- 55 --------------
+  Sun Oct 06 16:53:30 EDT 2019
+ProcessKeyBinding 402 when=1570395210092 modifiers=0 code=56 char=76(v) false false
+--------------- 56 --------------
+  Sun Oct 06 16:53:30 EDT 2019
+ProcessKeyBinding 401 when=1570395210397 modifiers=0 code=47 char=67(g) false false
+--------------- 57 --------------
+  Sun Oct 06 16:53:30 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 58 --------------
+  Sun Oct 06 16:53:30 EDT 2019
+ProcessKeyBinding 400 when=1570395210397 modifiers=0 code=0 char=67(g) false false
+--------------- 59 --------------
+  Sun Oct 06 16:53:30 EDT 2019
+ProcessKeyBinding 402 when=1570395210528 modifiers=0 code=47 char=67(g) false false
+--------------- 60 --------------
+  Sun Oct 06 16:53:35 EDT 2019
+ProcessKeyBinding 401 when=1570395215204 modifiers=0 code=56 char=76(v) false false
+--------------- 61 --------------
+  Sun Oct 06 16:53:35 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 62 --------------
+  Sun Oct 06 16:53:35 EDT 2019
+ProcessKeyBinding 400 when=1570395215204 modifiers=0 code=0 char=76(v) false false
+--------------- 63 --------------
+  Sun Oct 06 16:53:35 EDT 2019
+ProcessKeyBinding 402 when=1570395215344 modifiers=0 code=56 char=76(v) false false
+--------------- 64 --------------
+  Sun Oct 06 16:53:38 EDT 2019
+ProcessKeyBinding 401 when=1570395218842 modifiers=0 code=56 char=76(v) false false
+--------------- 65 --------------
+  Sun Oct 06 16:53:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 66 --------------
+  Sun Oct 06 16:53:38 EDT 2019
+ProcessKeyBinding 400 when=1570395218842 modifiers=0 code=0 char=76(v) false false
+--------------- 67 --------------
+  Sun Oct 06 16:53:38 EDT 2019
+ProcessKeyBinding 402 when=1570395218972 modifiers=0 code=56 char=76(v) false false
+--------------- 68 --------------
+  Sun Oct 06 16:53:39 EDT 2019
+ProcessKeyBinding 401 when=1570395219251 modifiers=0 code=47 char=67(g) false false
+--------------- 69 --------------
+  Sun Oct 06 16:53:39 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 70 --------------
+  Sun Oct 06 16:53:39 EDT 2019
+ProcessKeyBinding 400 when=1570395219251 modifiers=0 code=0 char=67(g) false false
+--------------- 71 --------------
+  Sun Oct 06 16:53:39 EDT 2019
+ProcessKeyBinding 402 when=1570395219370 modifiers=0 code=47 char=67(g) false false
+--------------- 72 --------------
+  Sun Oct 06 16:53:43 EDT 2019
+ProcessKeyBinding 401 when=1570395223070 modifiers=0 code=56 char=76(v) false false
+--------------- 73 --------------
+  Sun Oct 06 16:53:43 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 74 --------------
+  Sun Oct 06 16:53:43 EDT 2019
+ProcessKeyBinding 400 when=1570395223070 modifiers=0 code=0 char=76(v) false false
+--------------- 75 --------------
+  Sun Oct 06 16:53:43 EDT 2019
+ProcessKeyBinding 402 when=1570395223221 modifiers=0 code=56 char=76(v) false false
+--------------- 76 --------------
+  Sun Oct 06 16:53:43 EDT 2019
+ProcessKeyBinding 401 when=1570395223451 modifiers=0 code=47 char=67(g) false false
+--------------- 77 --------------
+  Sun Oct 06 16:53:43 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 78 --------------
+  Sun Oct 06 16:53:43 EDT 2019
+ProcessKeyBinding 400 when=1570395223451 modifiers=0 code=0 char=67(g) false false
+--------------- 79 --------------
+  Sun Oct 06 16:53:43 EDT 2019
+ProcessKeyBinding 402 when=1570395223563 modifiers=0 code=47 char=67(g) false false
+--------------- 80 --------------
+  Sun Oct 06 16:53:47 EDT 2019
+ProcessKeyBinding 401 when=1570395227945 modifiers=0 code=56 char=76(v) false false
+--------------- 81 --------------
+  Sun Oct 06 16:53:47 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 82 --------------
+  Sun Oct 06 16:53:47 EDT 2019
+ProcessKeyBinding 400 when=1570395227945 modifiers=0 code=0 char=76(v) false false
+--------------- 83 --------------
+  Sun Oct 06 16:53:48 EDT 2019
+ProcessKeyBinding 402 when=1570395228095 modifiers=0 code=56 char=76(v) false false
+--------------- 84 --------------
+  Sun Oct 06 16:53:48 EDT 2019
+ProcessKeyBinding 401 when=1570395228354 modifiers=0 code=47 char=67(g) false false
+--------------- 85 --------------
+  Sun Oct 06 16:53:48 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 86 --------------
+  Sun Oct 06 16:53:48 EDT 2019
+ProcessKeyBinding 400 when=1570395228354 modifiers=0 code=0 char=67(g) false false
+--------------- 87 --------------
+  Sun Oct 06 16:53:48 EDT 2019
+ProcessKeyBinding 402 when=1570395228474 modifiers=0 code=47 char=67(g) false false
+--------------- 88 --------------
+  Sun Oct 06 16:53:52 EDT 2019
+ProcessKeyBinding 401 when=1570395232010 modifiers=0 code=56 char=76(v) false false
+--------------- 89 --------------
+  Sun Oct 06 16:53:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 90 --------------
+  Sun Oct 06 16:53:52 EDT 2019
+ProcessKeyBinding 400 when=1570395232010 modifiers=0 code=0 char=76(v) false false
+--------------- 91 --------------
+  Sun Oct 06 16:53:52 EDT 2019
+ProcessKeyBinding 402 when=1570395232138 modifiers=0 code=56 char=76(v) false false
+--------------- 92 --------------
+  Sun Oct 06 16:53:52 EDT 2019
+ProcessKeyBinding 401 when=1570395232723 modifiers=0 code=47 char=67(g) false false
+--------------- 93 --------------
+  Sun Oct 06 16:53:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 94 --------------
+  Sun Oct 06 16:53:52 EDT 2019
+ProcessKeyBinding 400 when=1570395232723 modifiers=0 code=0 char=67(g) false false
+--------------- 95 --------------
+  Sun Oct 06 16:53:52 EDT 2019
+ProcessKeyBinding 402 when=1570395232831 modifiers=0 code=47 char=67(g) false false
+--------------- 96 --------------
+  Sun Oct 06 16:53:53 EDT 2019
+ProcessKeyBinding 401 when=1570395233195 modifiers=0 code=56 char=76(v) false false
+--------------- 97 --------------
+  Sun Oct 06 16:53:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 98 --------------
+  Sun Oct 06 16:53:53 EDT 2019
+ProcessKeyBinding 400 when=1570395233195 modifiers=0 code=0 char=76(v) false false
+--------------- 99 --------------
+  Sun Oct 06 16:53:53 EDT 2019
+ProcessKeyBinding 402 when=1570395233336 modifiers=0 code=56 char=76(v) false false
+--------------- 100 --------------
+  Sun Oct 06 16:53:56 EDT 2019
+ProcessKeyBinding 401 when=1570395236441 modifiers=0 code=56 char=76(v) false false
+--------------- 101 --------------
+  Sun Oct 06 16:53:56 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 102 --------------
+  Sun Oct 06 16:53:56 EDT 2019
+ProcessKeyBinding 400 when=1570395236441 modifiers=0 code=0 char=76(v) false false
+--------------- 103 --------------
+  Sun Oct 06 16:53:56 EDT 2019
+ProcessKeyBinding 402 when=1570395236572 modifiers=0 code=56 char=76(v) false false
+--------------- 104 --------------
+  Sun Oct 06 16:53:56 EDT 2019
+ProcessKeyBinding 401 when=1570395236785 modifiers=0 code=47 char=67(g) false false
+--------------- 105 --------------
+  Sun Oct 06 16:53:56 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 106 --------------
+  Sun Oct 06 16:53:56 EDT 2019
+ProcessKeyBinding 400 when=1570395236785 modifiers=0 code=0 char=67(g) false false
+--------------- 107 --------------
+  Sun Oct 06 16:53:56 EDT 2019
+ProcessKeyBinding 402 when=1570395236916 modifiers=0 code=47 char=67(g) false false
+--------------- 108 --------------
+  Sun Oct 06 16:54:53 EDT 2019
+ProcessKeyBinding 401 when=1570395293620 modifiers=0 code=56 char=76(v) false false
+--------------- 109 --------------
+  Sun Oct 06 16:54:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 110 --------------
+  Sun Oct 06 16:54:53 EDT 2019
+ProcessKeyBinding 400 when=1570395293620 modifiers=0 code=0 char=76(v) false false
+--------------- 111 --------------
+  Sun Oct 06 16:54:53 EDT 2019
+ProcessKeyBinding 402 when=1570395293778 modifiers=0 code=56 char=76(v) false false
+--------------- 112 --------------
+  Sun Oct 06 16:54:54 EDT 2019
+ProcessKeyBinding 401 when=1570395294219 modifiers=0 code=47 char=67(g) false false
+--------------- 113 --------------
+  Sun Oct 06 16:54:54 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 114 --------------
+  Sun Oct 06 16:54:54 EDT 2019
+ProcessKeyBinding 400 when=1570395294219 modifiers=0 code=0 char=67(g) false false
+--------------- 115 --------------
+  Sun Oct 06 16:54:54 EDT 2019
+ProcessKeyBinding 402 when=1570395294326 modifiers=0 code=47 char=67(g) false false
+--------------- 116 --------------
+  Sun Oct 06 16:54:57 EDT 2019
+ProcessKeyBinding 401 when=1570395297127 modifiers=0 code=56 char=76(v) false false
+--------------- 117 --------------
+  Sun Oct 06 16:54:57 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 118 --------------
+  Sun Oct 06 16:54:57 EDT 2019
+ProcessKeyBinding 400 when=1570395297127 modifiers=0 code=0 char=76(v) false false
+--------------- 119 --------------
+  Sun Oct 06 16:55:07 EDT 2019
+ProcessKeyBinding 401 when=1570395307023 modifiers=0 code=56 char=76(v) false false
+--------------- 120 --------------
+  Sun Oct 06 16:55:07 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 121 --------------
+  Sun Oct 06 16:55:07 EDT 2019
+ProcessKeyBinding 400 when=1570395307023 modifiers=0 code=0 char=76(v) false false
+--------------- 122 --------------
+  Sun Oct 06 16:55:07 EDT 2019
+ProcessKeyBinding 402 when=1570395307170 modifiers=0 code=56 char=76(v) false false
+--------------- 123 --------------
+  Sun Oct 06 16:55:07 EDT 2019
+ProcessKeyBinding 401 when=1570395307428 modifiers=0 code=47 char=67(g) false false
+--------------- 124 --------------
+  Sun Oct 06 16:55:07 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 125 --------------
+  Sun Oct 06 16:55:07 EDT 2019
+ProcessKeyBinding 400 when=1570395307428 modifiers=0 code=0 char=67(g) false false
+--------------- 126 --------------
+  Sun Oct 06 16:55:07 EDT 2019
+ProcessKeyBinding 402 when=1570395307567 modifiers=0 code=47 char=67(g) false false
+--------------- 127 --------------
+  Sun Oct 06 16:55:10 EDT 2019
+ProcessKeyBinding 401 when=1570395310475 modifiers=0 code=56 char=76(v) false false
+--------------- 128 --------------
+  Sun Oct 06 16:55:10 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 129 --------------
+  Sun Oct 06 16:55:10 EDT 2019
+ProcessKeyBinding 400 when=1570395310475 modifiers=0 code=0 char=76(v) false false
+--------------- 130 --------------
+  Sun Oct 06 16:55:10 EDT 2019
+ProcessKeyBinding 402 when=1570395310605 modifiers=0 code=56 char=76(v) false false
+--------------- 131 --------------
+  Sun Oct 06 16:55:10 EDT 2019
+ProcessKeyBinding 401 when=1570395310862 modifiers=0 code=47 char=67(g) false false
+--------------- 132 --------------
+  Sun Oct 06 16:55:10 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 133 --------------
+  Sun Oct 06 16:55:10 EDT 2019
+ProcessKeyBinding 400 when=1570395310862 modifiers=0 code=0 char=67(g) false false
+--------------- 134 --------------
+  Sun Oct 06 16:55:10 EDT 2019
+ProcessKeyBinding 402 when=1570395310994 modifiers=0 code=47 char=67(g) false false
+--------------- 135 --------------
+  Sun Oct 06 16:55:13 EDT 2019
+ProcessKeyBinding 401 when=1570395313607 modifiers=0 code=56 char=76(v) false false
+--------------- 136 --------------
+  Sun Oct 06 16:55:13 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 137 --------------
+  Sun Oct 06 16:55:13 EDT 2019
+ProcessKeyBinding 400 when=1570395313607 modifiers=0 code=0 char=76(v) false false
+--------------- 138 --------------
+  Sun Oct 06 16:55:13 EDT 2019
+ProcessKeyBinding 402 when=1570395313741 modifiers=0 code=56 char=76(v) false false
+--------------- 139 --------------
+  Sun Oct 06 16:55:14 EDT 2019
+ProcessKeyBinding 401 when=1570395314401 modifiers=0 code=47 char=67(g) false false
+--------------- 140 --------------
+  Sun Oct 06 16:55:14 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 141 --------------
+  Sun Oct 06 16:55:14 EDT 2019
+ProcessKeyBinding 400 when=1570395314401 modifiers=0 code=0 char=67(g) false false
+--------------- 142 --------------
+  Sun Oct 06 16:55:14 EDT 2019
+ProcessKeyBinding 402 when=1570395314542 modifiers=0 code=47 char=67(g) false false
+--------------- 143 --------------
+  Sun Oct 06 16:55:29 EDT 2019
+ProcessKeyBinding 401 when=1570395329438 modifiers=0 code=47 char=67(g) false false
+--------------- 144 --------------
+  Sun Oct 06 16:55:29 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 145 --------------
+  Sun Oct 06 16:55:29 EDT 2019
+ProcessKeyBinding 400 when=1570395329438 modifiers=0 code=0 char=67(g) false false
+--------------- 146 --------------
+  Sun Oct 06 16:55:29 EDT 2019
+ProcessKeyBinding 402 when=1570395329564 modifiers=0 code=47 char=67(g) false false
+--------------- 147 --------------
+  Sun Oct 06 16:55:30 EDT 2019
+ProcessKeyBinding 401 when=1570395330216 modifiers=0 code=56 char=76(v) false false
+--------------- 148 --------------
+  Sun Oct 06 16:55:30 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 149 --------------
+  Sun Oct 06 16:55:30 EDT 2019
+ProcessKeyBinding 400 when=1570395330216 modifiers=0 code=0 char=76(v) false false
+--------------- 150 --------------
+  Sun Oct 06 16:55:30 EDT 2019
+ProcessKeyBinding 402 when=1570395330355 modifiers=0 code=56 char=76(v) false false
+--------------- 151 --------------
+  Sun Oct 06 16:55:34 EDT 2019
+ProcessKeyBinding 401 when=1570395334508 modifiers=0 code=56 char=76(v) false false
+--------------- 152 --------------
+  Sun Oct 06 16:55:34 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 153 --------------
+  Sun Oct 06 16:55:34 EDT 2019
+ProcessKeyBinding 400 when=1570395334508 modifiers=0 code=0 char=76(v) false false
+--------------- 154 --------------
+  Sun Oct 06 16:55:34 EDT 2019
+ProcessKeyBinding 402 when=1570395334647 modifiers=0 code=56 char=76(v) false false
+--------------- 155 --------------
+  Sun Oct 06 16:55:35 EDT 2019
+ProcessKeyBinding 401 when=1570395335012 modifiers=0 code=47 char=67(g) false false
+--------------- 156 --------------
+  Sun Oct 06 16:55:35 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 157 --------------
+  Sun Oct 06 16:55:35 EDT 2019
+ProcessKeyBinding 400 when=1570395335012 modifiers=0 code=0 char=67(g) false false
+--------------- 158 --------------
+  Sun Oct 06 16:55:35 EDT 2019
+ProcessKeyBinding 402 when=1570395335125 modifiers=0 code=47 char=67(g) false false
+--------------- 159 --------------
+  Sun Oct 06 16:55:39 EDT 2019
+ProcessKeyBinding 401 when=1570395339434 modifiers=0 code=47 char=67(g) false false
+--------------- 160 --------------
+  Sun Oct 06 16:55:39 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 161 --------------
+  Sun Oct 06 16:55:39 EDT 2019
+ProcessKeyBinding 400 when=1570395339434 modifiers=0 code=0 char=67(g) false false
+--------------- 162 --------------
+  Sun Oct 06 16:55:39 EDT 2019
+ProcessKeyBinding 402 when=1570395339561 modifiers=0 code=47 char=67(g) false false
+--------------- 163 --------------
+  Sun Oct 06 16:55:40 EDT 2019
+ProcessKeyBinding 401 when=1570395340160 modifiers=0 code=56 char=76(v) false false
+--------------- 164 --------------
+  Sun Oct 06 16:55:40 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 165 --------------
+  Sun Oct 06 16:55:40 EDT 2019
+ProcessKeyBinding 400 when=1570395340160 modifiers=0 code=0 char=76(v) false false
+--------------- 166 --------------
+  Sun Oct 06 16:55:40 EDT 2019
+ProcessKeyBinding 402 when=1570395340291 modifiers=0 code=56 char=76(v) false false
+--------------- 167 --------------
+  Sun Oct 06 16:55:44 EDT 2019
+ProcessKeyBinding 401 when=1570395344087 modifiers=0 code=56 char=76(v) false false
+--------------- 168 --------------
+  Sun Oct 06 16:55:44 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 169 --------------
+  Sun Oct 06 16:55:44 EDT 2019
+ProcessKeyBinding 400 when=1570395344087 modifiers=0 code=0 char=76(v) false false
+--------------- 170 --------------
+  Sun Oct 06 16:55:44 EDT 2019
+ProcessKeyBinding 402 when=1570395344262 modifiers=0 code=56 char=76(v) false false
+--------------- 171 --------------
+  Sun Oct 06 16:55:44 EDT 2019
+ProcessKeyBinding 401 when=1570395344613 modifiers=0 code=47 char=67(g) false false
+--------------- 172 --------------
+  Sun Oct 06 16:55:44 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 173 --------------
+  Sun Oct 06 16:55:44 EDT 2019
+ProcessKeyBinding 400 when=1570395344613 modifiers=0 code=0 char=67(g) false false
+--------------- 174 --------------
+  Sun Oct 06 16:55:44 EDT 2019
+ProcessKeyBinding 402 when=1570395344735 modifiers=0 code=47 char=67(g) false false
+--------------- 175 --------------
+  Sun Oct 06 16:55:52 EDT 2019
+ProcessKeyBinding 401 when=1570395352745 modifiers=0 code=56 char=76(v) false false
+--------------- 176 --------------
+  Sun Oct 06 16:55:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 177 --------------
+  Sun Oct 06 16:55:52 EDT 2019
+ProcessKeyBinding 400 when=1570395352745 modifiers=0 code=0 char=76(v) false false
+--------------- 178 --------------
+  Sun Oct 06 16:55:52 EDT 2019
+ProcessKeyBinding 402 when=1570395352915 modifiers=0 code=56 char=76(v) false false
+--------------- 179 --------------
+  Sun Oct 06 16:55:53 EDT 2019
+ProcessKeyBinding 401 when=1570395353236 modifiers=0 code=47 char=67(g) false false
+--------------- 180 --------------
+  Sun Oct 06 16:55:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 181 --------------
+  Sun Oct 06 16:55:53 EDT 2019
+ProcessKeyBinding 400 when=1570395353236 modifiers=0 code=0 char=67(g) false false
+--------------- 182 --------------
+  Sun Oct 06 16:55:53 EDT 2019
+ProcessKeyBinding 402 when=1570395353366 modifiers=0 code=47 char=67(g) false false
+--------------- 183 --------------
+  Sun Oct 06 16:56:38 EDT 2019
+ProcessKeyBinding 401 when=1570395398431 modifiers=0 code=56 char=76(v) false false
+--------------- 184 --------------
+  Sun Oct 06 16:56:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 185 --------------
+  Sun Oct 06 16:56:38 EDT 2019
+ProcessKeyBinding 400 when=1570395398431 modifiers=0 code=0 char=76(v) false false
+--------------- 186 --------------
+  Sun Oct 06 16:56:38 EDT 2019
+ProcessKeyBinding 402 when=1570395398613 modifiers=0 code=56 char=76(v) false false
+--------------- 187 --------------
+  Sun Oct 06 16:56:38 EDT 2019
+ProcessKeyBinding 401 when=1570395398895 modifiers=0 code=47 char=67(g) false false
+--------------- 188 --------------
+  Sun Oct 06 16:56:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 189 --------------
+  Sun Oct 06 16:56:38 EDT 2019
+ProcessKeyBinding 400 when=1570395398895 modifiers=0 code=0 char=67(g) false false
+--------------- 190 --------------
+  Sun Oct 06 16:56:39 EDT 2019
+ProcessKeyBinding 402 when=1570395399020 modifiers=0 code=47 char=67(g) false false
+--------------- 191 --------------
+  Sun Oct 06 16:56:41 EDT 2019
+ProcessKeyBinding 401 when=1570395401885 modifiers=0 code=56 char=76(v) false false
+--------------- 192 --------------
+  Sun Oct 06 16:56:41 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 193 --------------
+  Sun Oct 06 16:56:41 EDT 2019
+ProcessKeyBinding 400 when=1570395401885 modifiers=0 code=0 char=76(v) false false
+--------------- 194 --------------
+  Sun Oct 06 16:56:50 EDT 2019
+ProcessKeyBinding 401 when=1570395410349 modifiers=0 code=56 char=76(v) false false
+--------------- 195 --------------
+  Sun Oct 06 16:56:50 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 196 --------------
+  Sun Oct 06 16:56:50 EDT 2019
+ProcessKeyBinding 400 when=1570395410349 modifiers=0 code=0 char=76(v) false false
+--------------- 197 --------------
+  Sun Oct 06 16:57:06 EDT 2019
+ProcessKeyBinding 401 when=1570395426419 modifiers=0 code=56 char=76(v) false false
+--------------- 198 --------------
+  Sun Oct 06 16:57:06 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 199 --------------
+  Sun Oct 06 16:57:06 EDT 2019
+ProcessKeyBinding 400 when=1570395426419 modifiers=0 code=0 char=76(v) false false
+--------------- 200 --------------
+  Sun Oct 06 16:57:06 EDT 2019
+ProcessKeyBinding 402 when=1570395426554 modifiers=0 code=56 char=76(v) false false
+--------------- 201 --------------
+  Sun Oct 06 16:57:06 EDT 2019
+ProcessKeyBinding 401 when=1570395426853 modifiers=0 code=47 char=67(g) false false
+--------------- 202 --------------
+  Sun Oct 06 16:57:06 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 203 --------------
+  Sun Oct 06 16:57:06 EDT 2019
+ProcessKeyBinding 400 when=1570395426853 modifiers=0 code=0 char=67(g) false false
+--------------- 204 --------------
+  Sun Oct 06 16:57:06 EDT 2019
+ProcessKeyBinding 402 when=1570395426966 modifiers=0 code=47 char=67(g) false false
+--------------- 205 --------------
+  Sun Oct 06 16:57:13 EDT 2019
+ProcessKeyBinding 401 when=1570395433631 modifiers=0 code=47 char=67(g) false false
+--------------- 206 --------------
+  Sun Oct 06 16:57:13 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 207 --------------
+  Sun Oct 06 16:57:13 EDT 2019
+ProcessKeyBinding 400 when=1570395433631 modifiers=0 code=0 char=67(g) false false
+--------------- 208 --------------
+  Sun Oct 06 16:57:13 EDT 2019
+ProcessKeyBinding 402 when=1570395433785 modifiers=0 code=47 char=67(g) false false
+--------------- 209 --------------
+  Sun Oct 06 16:57:14 EDT 2019
+ProcessKeyBinding 401 when=1570395434339 modifiers=0 code=56 char=76(v) false false
+--------------- 210 --------------
+  Sun Oct 06 16:57:14 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 211 --------------
+  Sun Oct 06 16:57:14 EDT 2019
+ProcessKeyBinding 400 when=1570395434339 modifiers=0 code=0 char=76(v) false false
+--------------- 212 --------------
+  Sun Oct 06 16:57:14 EDT 2019
+ProcessKeyBinding 402 when=1570395434501 modifiers=0 code=56 char=76(v) false false
+--------------- 213 --------------
+  Sun Oct 06 16:57:19 EDT 2019
+ProcessKeyBinding 401 when=1570395439204 modifiers=0 code=56 char=76(v) false false
+--------------- 214 --------------
+  Sun Oct 06 16:57:19 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 215 --------------
+  Sun Oct 06 16:57:19 EDT 2019
+ProcessKeyBinding 400 when=1570395439204 modifiers=0 code=0 char=76(v) false false
+--------------- 216 --------------
+  Sun Oct 06 16:57:19 EDT 2019
+ProcessKeyBinding 402 when=1570395439366 modifiers=0 code=56 char=76(v) false false
+--------------- 217 --------------
+  Sun Oct 06 16:57:19 EDT 2019
+ProcessKeyBinding 401 when=1570395439606 modifiers=0 code=47 char=67(g) false false
+--------------- 218 --------------
+  Sun Oct 06 16:57:19 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 219 --------------
+  Sun Oct 06 16:57:19 EDT 2019
+ProcessKeyBinding 400 when=1570395439606 modifiers=0 code=0 char=67(g) false false
+--------------- 220 --------------
+  Sun Oct 06 16:57:19 EDT 2019
+ProcessKeyBinding 402 when=1570395439739 modifiers=0 code=47 char=67(g) false false
+--------------- 221 --------------
+  Sun Oct 06 16:57:24 EDT 2019
+ProcessKeyBinding 401 when=1570395444122 modifiers=0 code=47 char=67(g) false false
+--------------- 222 --------------
+  Sun Oct 06 16:57:24 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 223 --------------
+  Sun Oct 06 16:57:24 EDT 2019
+ProcessKeyBinding 400 when=1570395444122 modifiers=0 code=0 char=67(g) false false
+--------------- 224 --------------
+  Sun Oct 06 16:57:24 EDT 2019
+ProcessKeyBinding 402 when=1570395444274 modifiers=0 code=47 char=67(g) false false
+--------------- 225 --------------
+  Sun Oct 06 16:57:31 EDT 2019
+ProcessKeyBinding 401 when=1570395451615 modifiers=0 code=56 char=76(v) false false
+--------------- 226 --------------
+  Sun Oct 06 16:57:31 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 227 --------------
+  Sun Oct 06 16:57:31 EDT 2019
+ProcessKeyBinding 400 when=1570395451615 modifiers=0 code=0 char=76(v) false false
+--------------- 228 --------------
+  Sun Oct 06 16:57:31 EDT 2019
+ProcessKeyBinding 402 when=1570395451774 modifiers=0 code=56 char=76(v) false false
+--------------- 229 --------------
+  Sun Oct 06 16:57:32 EDT 2019
+ProcessKeyBinding 401 when=1570395452063 modifiers=0 code=47 char=67(g) false false
+--------------- 230 --------------
+  Sun Oct 06 16:57:32 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 231 --------------
+  Sun Oct 06 16:57:32 EDT 2019
+ProcessKeyBinding 400 when=1570395452063 modifiers=0 code=0 char=67(g) false false
+--------------- 232 --------------
+  Sun Oct 06 16:57:32 EDT 2019
+ProcessKeyBinding 402 when=1570395452187 modifiers=0 code=47 char=67(g) false false
+--------------- 233 --------------
+  Sun Oct 06 16:57:38 EDT 2019
+ProcessKeyBinding 401 when=1570395458121 modifiers=0 code=56 char=76(v) false false
+--------------- 234 --------------
+  Sun Oct 06 16:57:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 235 --------------
+  Sun Oct 06 16:57:38 EDT 2019
+ProcessKeyBinding 400 when=1570395458121 modifiers=0 code=0 char=76(v) false false
+--------------- 236 --------------
+  Sun Oct 06 16:57:38 EDT 2019
+ProcessKeyBinding 402 when=1570395458271 modifiers=0 code=56 char=76(v) false false
+--------------- 237 --------------
+  Sun Oct 06 16:57:38 EDT 2019
+ProcessKeyBinding 401 when=1570395458791 modifiers=0 code=47 char=67(g) false false
+--------------- 238 --------------
+  Sun Oct 06 16:57:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 239 --------------
+  Sun Oct 06 16:57:38 EDT 2019
+ProcessKeyBinding 400 when=1570395458791 modifiers=0 code=0 char=67(g) false false
+--------------- 240 --------------
+  Sun Oct 06 16:57:38 EDT 2019
+ProcessKeyBinding 402 when=1570395458940 modifiers=0 code=47 char=67(g) false false
+--------------- 241 --------------
+  Sun Oct 06 16:57:43 EDT 2019
+ProcessKeyBinding 401 when=1570395463767 modifiers=0 code=56 char=76(v) false false
+--------------- 242 --------------
+  Sun Oct 06 16:57:43 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 243 --------------
+  Sun Oct 06 16:57:43 EDT 2019
+ProcessKeyBinding 400 when=1570395463767 modifiers=0 code=0 char=76(v) false false
+--------------- 244 --------------
+  Sun Oct 06 16:57:43 EDT 2019
+ProcessKeyBinding 402 when=1570395463932 modifiers=0 code=56 char=76(v) false false
+--------------- 245 --------------
+  Sun Oct 06 16:57:47 EDT 2019
+ProcessKeyBinding 401 when=1570395467745 modifiers=0 code=56 char=76(v) false false
+--------------- 246 --------------
+  Sun Oct 06 16:57:47 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 247 --------------
+  Sun Oct 06 16:57:47 EDT 2019
+ProcessKeyBinding 400 when=1570395467745 modifiers=0 code=0 char=76(v) false false
+--------------- 248 --------------
+  Sun Oct 06 16:57:47 EDT 2019
+ProcessKeyBinding 402 when=1570395467888 modifiers=0 code=56 char=76(v) false false
+--------------- 249 --------------
+  Sun Oct 06 16:57:48 EDT 2019
+ProcessKeyBinding 401 when=1570395468193 modifiers=0 code=47 char=67(g) false false
+--------------- 250 --------------
+  Sun Oct 06 16:57:48 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 251 --------------
+  Sun Oct 06 16:57:48 EDT 2019
+ProcessKeyBinding 400 when=1570395468193 modifiers=0 code=0 char=67(g) false false
+--------------- 252 --------------
+  Sun Oct 06 16:57:48 EDT 2019
+ProcessKeyBinding 402 when=1570395468322 modifiers=0 code=47 char=67(g) false false
+--------------- 253 --------------
+  Sun Oct 06 16:58:14 EDT 2019
+ProcessKeyBinding 401 when=1570395494779 modifiers=0 code=56 char=76(v) false false
+--------------- 254 --------------
+  Sun Oct 06 16:58:14 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 255 --------------
+  Sun Oct 06 16:58:14 EDT 2019
+ProcessKeyBinding 400 when=1570395494779 modifiers=0 code=0 char=76(v) false false
+--------------- 256 --------------
+  Sun Oct 06 16:58:14 EDT 2019
+ProcessKeyBinding 402 when=1570395494944 modifiers=0 code=56 char=76(v) false false
+--------------- 257 --------------
+  Sun Oct 06 16:58:15 EDT 2019
+ProcessKeyBinding 401 when=1570395495619 modifiers=0 code=47 char=67(g) false false
+--------------- 258 --------------
+  Sun Oct 06 16:58:15 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 259 --------------
+  Sun Oct 06 16:58:15 EDT 2019
+ProcessKeyBinding 400 when=1570395495619 modifiers=0 code=0 char=67(g) false false
+--------------- 260 --------------
+  Sun Oct 06 16:58:15 EDT 2019
+ProcessKeyBinding 402 when=1570395495748 modifiers=0 code=47 char=67(g) false false
+--------------- 261 --------------
+  Sun Oct 06 16:58:18 EDT 2019
+ProcessKeyBinding 401 when=1570395498183 modifiers=0 code=56 char=76(v) false false
+--------------- 262 --------------
+  Sun Oct 06 16:58:18 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 263 --------------
+  Sun Oct 06 16:58:18 EDT 2019
+ProcessKeyBinding 400 when=1570395498183 modifiers=0 code=0 char=76(v) false false
+--------------- 264 --------------
+  Sun Oct 06 16:58:23 EDT 2019
+ProcessKeyBinding 401 when=1570395503150 modifiers=0 code=56 char=76(v) false false
+--------------- 265 --------------
+  Sun Oct 06 16:58:23 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 266 --------------
+  Sun Oct 06 16:58:23 EDT 2019
+ProcessKeyBinding 400 when=1570395503150 modifiers=0 code=0 char=76(v) false false
+--------------- 267 --------------
+  Sun Oct 06 16:58:23 EDT 2019
+ProcessKeyBinding 402 when=1570395503297 modifiers=0 code=56 char=76(v) false false
+--------------- 268 --------------
+  Sun Oct 06 16:58:23 EDT 2019
+ProcessKeyBinding 401 when=1570395503780 modifiers=0 code=47 char=67(g) false false
+--------------- 269 --------------
+  Sun Oct 06 16:58:23 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 270 --------------
+  Sun Oct 06 16:58:23 EDT 2019
+ProcessKeyBinding 400 when=1570395503780 modifiers=0 code=0 char=67(g) false false
+--------------- 271 --------------
+  Sun Oct 06 16:58:23 EDT 2019
+ProcessKeyBinding 402 when=1570395503915 modifiers=0 code=47 char=67(g) false false
+--------------- 272 --------------
+  Sun Oct 06 16:58:27 EDT 2019
+ProcessKeyBinding 401 when=1570395507432 modifiers=0 code=56 char=76(v) false false
+--------------- 273 --------------
+  Sun Oct 06 16:58:27 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 274 --------------
+  Sun Oct 06 16:58:27 EDT 2019
+ProcessKeyBinding 400 when=1570395507432 modifiers=0 code=0 char=76(v) false false
+--------------- 275 --------------
+  Sun Oct 06 16:58:27 EDT 2019
+ProcessKeyBinding 402 when=1570395507586 modifiers=0 code=56 char=76(v) false false
+--------------- 276 --------------
+  Sun Oct 06 16:58:28 EDT 2019
+ProcessKeyBinding 401 when=1570395508173 modifiers=0 code=47 char=67(g) false false
+--------------- 277 --------------
+  Sun Oct 06 16:58:28 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 278 --------------
+  Sun Oct 06 16:58:28 EDT 2019
+ProcessKeyBinding 400 when=1570395508173 modifiers=0 code=0 char=67(g) false false
+--------------- 279 --------------
+  Sun Oct 06 16:58:28 EDT 2019
+ProcessKeyBinding 402 when=1570395508308 modifiers=0 code=47 char=67(g) false false
+--------------- 280 --------------
+  Sun Oct 06 16:58:41 EDT 2019
+ProcessKeyBinding 401 when=1570395521611 modifiers=0 code=47 char=67(g) false false
+--------------- 281 --------------
+  Sun Oct 06 16:58:41 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 282 --------------
+  Sun Oct 06 16:58:41 EDT 2019
+ProcessKeyBinding 400 when=1570395521611 modifiers=0 code=0 char=67(g) false false
+--------------- 283 --------------
+  Sun Oct 06 16:58:41 EDT 2019
+ProcessKeyBinding 402 when=1570395521755 modifiers=0 code=47 char=67(g) false false
+--------------- 284 --------------
+  Sun Oct 06 16:58:42 EDT 2019
+ProcessKeyBinding 401 when=1570395522214 modifiers=0 code=56 char=76(v) false false
+--------------- 285 --------------
+  Sun Oct 06 16:58:42 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 286 --------------
+  Sun Oct 06 16:58:42 EDT 2019
+ProcessKeyBinding 400 when=1570395522214 modifiers=0 code=0 char=76(v) false false
+--------------- 287 --------------
+  Sun Oct 06 16:58:42 EDT 2019
+ProcessKeyBinding 402 when=1570395522354 modifiers=0 code=56 char=76(v) false false
+--------------- 288 --------------
+  Sun Oct 06 16:58:49 EDT 2019
+ProcessKeyBinding 401 when=1570395529764 modifiers=0 code=56 char=76(v) false false
+--------------- 289 --------------
+  Sun Oct 06 16:58:49 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 290 --------------
+  Sun Oct 06 16:58:49 EDT 2019
+ProcessKeyBinding 400 when=1570395529764 modifiers=0 code=0 char=76(v) false false
+--------------- 291 --------------
+  Sun Oct 06 16:58:49 EDT 2019
+ProcessKeyBinding 402 when=1570395529935 modifiers=0 code=56 char=76(v) false false
+--------------- 292 --------------
+  Sun Oct 06 16:58:50 EDT 2019
+ProcessKeyBinding 401 when=1570395530318 modifiers=0 code=47 char=67(g) false false
+--------------- 293 --------------
+  Sun Oct 06 16:58:50 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 294 --------------
+  Sun Oct 06 16:58:50 EDT 2019
+ProcessKeyBinding 400 when=1570395530318 modifiers=0 code=0 char=67(g) false false
+--------------- 295 --------------
+  Sun Oct 06 16:58:50 EDT 2019
+ProcessKeyBinding 402 when=1570395530482 modifiers=0 code=47 char=67(g) false false
+--------------- 296 --------------
+  Sun Oct 06 16:58:57 EDT 2019
+ProcessKeyBinding 401 when=1570395537178 modifiers=0 code=56 char=76(v) false false
+--------------- 297 --------------
+  Sun Oct 06 16:58:57 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 298 --------------
+  Sun Oct 06 16:58:57 EDT 2019
+ProcessKeyBinding 400 when=1570395537178 modifiers=0 code=0 char=76(v) false false
+--------------- 299 --------------
+  Sun Oct 06 16:58:57 EDT 2019
+ProcessKeyBinding 402 when=1570395537333 modifiers=0 code=56 char=76(v) false false
+--------------- 300 --------------
+  Sun Oct 06 16:58:57 EDT 2019
+ProcessKeyBinding 401 when=1570395537663 modifiers=0 code=47 char=67(g) false false
+--------------- 301 --------------
+  Sun Oct 06 16:58:57 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 302 --------------
+  Sun Oct 06 16:58:57 EDT 2019
+ProcessKeyBinding 400 when=1570395537663 modifiers=0 code=0 char=67(g) false false
+--------------- 303 --------------
+  Sun Oct 06 16:58:57 EDT 2019
+ProcessKeyBinding 402 when=1570395537791 modifiers=0 code=47 char=67(g) false false
+--------------- 304 --------------
+  Sun Oct 06 16:59:14 EDT 2019
+ProcessKeyBinding 401 when=1570395554795 modifiers=0 code=56 char=76(v) false false
+--------------- 305 --------------
+  Sun Oct 06 16:59:14 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 306 --------------
+  Sun Oct 06 16:59:14 EDT 2019
+ProcessKeyBinding 400 when=1570395554795 modifiers=0 code=0 char=76(v) false false
+--------------- 307 --------------
+  Sun Oct 06 16:59:14 EDT 2019
+ProcessKeyBinding 402 when=1570395554947 modifiers=0 code=56 char=76(v) false false
+--------------- 308 --------------
+  Sun Oct 06 16:59:24 EDT 2019
+ProcessKeyBinding 401 when=1570395564744 modifiers=0 code=47 char=67(g) false false
+--------------- 309 --------------
+  Sun Oct 06 16:59:24 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 310 --------------
+  Sun Oct 06 16:59:24 EDT 2019
+ProcessKeyBinding 400 when=1570395564744 modifiers=0 code=0 char=67(g) false false
+--------------- 311 --------------
+  Sun Oct 06 16:59:24 EDT 2019
+ProcessKeyBinding 402 when=1570395564884 modifiers=0 code=47 char=67(g) false false
+--------------- 312 --------------
+  Sun Oct 06 16:59:28 EDT 2019
+ProcessKeyBinding 401 when=1570395568169 modifiers=0 code=47 char=67(g) false false
+--------------- 313 --------------
+  Sun Oct 06 16:59:28 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 314 --------------
+  Sun Oct 06 16:59:28 EDT 2019
+ProcessKeyBinding 400 when=1570395568169 modifiers=0 code=0 char=67(g) false false
+--------------- 315 --------------
+  Sun Oct 06 16:59:28 EDT 2019
+ProcessKeyBinding 402 when=1570395568328 modifiers=0 code=47 char=67(g) false false
+--------------- 316 --------------
+  Sun Oct 06 17:00:05 EDT 2019
+ProcessKeyBinding 401 when=1570395605138 modifiers=0 code=56 char=76(v) false false
+--------------- 317 --------------
+  Sun Oct 06 17:00:05 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 318 --------------
+  Sun Oct 06 17:00:05 EDT 2019
+ProcessKeyBinding 400 when=1570395605138 modifiers=0 code=0 char=76(v) false false
+--------------- 319 --------------
+  Sun Oct 06 17:00:05 EDT 2019
+ProcessKeyBinding 402 when=1570395605287 modifiers=0 code=56 char=76(v) false false
+--------------- 320 --------------
+  Sun Oct 06 17:00:05 EDT 2019
+ProcessKeyBinding 401 when=1570395605635 modifiers=0 code=47 char=67(g) false false
+--------------- 321 --------------
+  Sun Oct 06 17:00:05 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 322 --------------
+  Sun Oct 06 17:00:05 EDT 2019
+ProcessKeyBinding 400 when=1570395605635 modifiers=0 code=0 char=67(g) false false
+--------------- 323 --------------
+  Sun Oct 06 17:00:05 EDT 2019
+ProcessKeyBinding 402 when=1570395605750 modifiers=0 code=47 char=67(g) false false
+--------------- 324 --------------
+  Sun Oct 06 17:00:08 EDT 2019
+ProcessKeyBinding 401 when=1570395608443 modifiers=0 code=56 char=76(v) false false
+--------------- 325 --------------
+  Sun Oct 06 17:00:08 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 326 --------------
+  Sun Oct 06 17:00:08 EDT 2019
+ProcessKeyBinding 400 when=1570395608443 modifiers=0 code=0 char=76(v) false false
+--------------- 327 --------------
+  Sun Oct 06 17:00:22 EDT 2019
+ProcessKeyBinding 401 when=1570395622811 modifiers=0 code=47 char=67(g) false false
+--------------- 328 --------------
+  Sun Oct 06 17:00:22 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 329 --------------
+  Sun Oct 06 17:00:22 EDT 2019
+ProcessKeyBinding 400 when=1570395622811 modifiers=0 code=0 char=67(g) false false
+--------------- 330 --------------
+  Sun Oct 06 17:00:22 EDT 2019
+ProcessKeyBinding 402 when=1570395622962 modifiers=0 code=47 char=67(g) false false
+--------------- 331 --------------
+  Sun Oct 06 17:00:28 EDT 2019
+ProcessKeyBinding 401 when=1570395628248 modifiers=0 code=56 char=76(v) false false
+--------------- 332 --------------
+  Sun Oct 06 17:00:28 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 333 --------------
+  Sun Oct 06 17:00:28 EDT 2019
+ProcessKeyBinding 400 when=1570395628248 modifiers=0 code=0 char=76(v) false false
+--------------- 334 --------------
+  Sun Oct 06 17:00:28 EDT 2019
+ProcessKeyBinding 402 when=1570395628429 modifiers=0 code=56 char=76(v) false false
+--------------- 335 --------------
+  Sun Oct 06 17:00:28 EDT 2019
+ProcessKeyBinding 401 when=1570395628887 modifiers=0 code=47 char=67(g) false false
+--------------- 336 --------------
+  Sun Oct 06 17:00:28 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 337 --------------
+  Sun Oct 06 17:00:28 EDT 2019
+ProcessKeyBinding 400 when=1570395628887 modifiers=0 code=0 char=67(g) false false
+--------------- 338 --------------
+  Sun Oct 06 17:00:29 EDT 2019
+ProcessKeyBinding 402 when=1570395629012 modifiers=0 code=47 char=67(g) false false
+--------------- 339 --------------
+  Sun Oct 06 17:00:34 EDT 2019
+ProcessKeyBinding 401 when=1570395634174 modifiers=0 code=47 char=67(g) false false
+--------------- 340 --------------
+  Sun Oct 06 17:00:34 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 341 --------------
+  Sun Oct 06 17:00:34 EDT 2019
+ProcessKeyBinding 400 when=1570395634174 modifiers=0 code=0 char=67(g) false false
+--------------- 342 --------------
+  Sun Oct 06 17:00:34 EDT 2019
+ProcessKeyBinding 402 when=1570395634314 modifiers=0 code=47 char=67(g) false false
+--------------- 343 --------------
+  Sun Oct 06 17:00:35 EDT 2019
+ProcessKeyBinding 401 when=1570395635072 modifiers=0 code=56 char=76(v) false false
+--------------- 344 --------------
+  Sun Oct 06 17:00:35 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 345 --------------
+  Sun Oct 06 17:00:35 EDT 2019
+ProcessKeyBinding 400 when=1570395635072 modifiers=0 code=0 char=76(v) false false
+--------------- 346 --------------
+  Sun Oct 06 17:00:35 EDT 2019
+ProcessKeyBinding 402 when=1570395635207 modifiers=0 code=56 char=76(v) false false
+--------------- 347 --------------
+  Sun Oct 06 17:00:42 EDT 2019
+ProcessKeyBinding 401 when=1570395642110 modifiers=0 code=47 char=67(g) false false
+--------------- 348 --------------
+  Sun Oct 06 17:00:42 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 349 --------------
+  Sun Oct 06 17:00:42 EDT 2019
+ProcessKeyBinding 400 when=1570395642110 modifiers=0 code=0 char=67(g) false false
+--------------- 350 --------------
+  Sun Oct 06 17:00:42 EDT 2019
+ProcessKeyBinding 402 when=1570395642268 modifiers=0 code=47 char=67(g) false false
+--------------- 351 --------------
+  Sun Oct 06 17:00:42 EDT 2019
+ProcessKeyBinding 401 when=1570395642660 modifiers=0 code=56 char=76(v) false false
+--------------- 352 --------------
+  Sun Oct 06 17:00:42 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 353 --------------
+  Sun Oct 06 17:00:42 EDT 2019
+ProcessKeyBinding 400 when=1570395642660 modifiers=0 code=0 char=76(v) false false
+--------------- 354 --------------
+  Sun Oct 06 17:00:42 EDT 2019
+ProcessKeyBinding 402 when=1570395642789 modifiers=0 code=56 char=76(v) false false
+--------------- 355 --------------
+  Sun Oct 06 17:00:43 EDT 2019
+ProcessKeyBinding 401 when=1570395643485 modifiers=0 code=47 char=67(g) false false
+--------------- 356 --------------
+  Sun Oct 06 17:00:43 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 357 --------------
+  Sun Oct 06 17:00:43 EDT 2019
+ProcessKeyBinding 400 when=1570395643485 modifiers=0 code=0 char=67(g) false false
+--------------- 358 --------------
+  Sun Oct 06 17:00:43 EDT 2019
+ProcessKeyBinding 402 when=1570395643646 modifiers=0 code=47 char=67(g) false false
+--------------- 359 --------------
+  Sun Oct 06 17:00:51 EDT 2019
+ProcessKeyBinding 401 when=1570395651609 modifiers=0 code=56 char=76(v) false false
+--------------- 360 --------------
+  Sun Oct 06 17:00:51 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 361 --------------
+  Sun Oct 06 17:00:51 EDT 2019
+ProcessKeyBinding 400 when=1570395651609 modifiers=0 code=0 char=76(v) false false
+--------------- 362 --------------
+  Sun Oct 06 17:00:51 EDT 2019
+ProcessKeyBinding 402 when=1570395651782 modifiers=0 code=56 char=76(v) false false
+--------------- 363 --------------
+  Sun Oct 06 17:00:52 EDT 2019
+ProcessKeyBinding 401 when=1570395652086 modifiers=0 code=47 char=67(g) false false
+--------------- 364 --------------
+  Sun Oct 06 17:00:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 365 --------------
+  Sun Oct 06 17:00:52 EDT 2019
+ProcessKeyBinding 400 when=1570395652086 modifiers=0 code=0 char=67(g) false false
+--------------- 366 --------------
+  Sun Oct 06 17:00:52 EDT 2019
+ProcessKeyBinding 402 when=1570395652220 modifiers=0 code=47 char=67(g) false false
+--------------- 367 --------------
+  Sun Oct 06 17:01:23 EDT 2019
+ProcessKeyBinding 401 when=1570395683782 modifiers=0 code=47 char=67(g) false false
+--------------- 368 --------------
+  Sun Oct 06 17:01:23 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 369 --------------
+  Sun Oct 06 17:01:23 EDT 2019
+ProcessKeyBinding 400 when=1570395683782 modifiers=0 code=0 char=67(g) false false
+--------------- 370 --------------
+  Sun Oct 06 17:01:23 EDT 2019
+ProcessKeyBinding 402 when=1570395683942 modifiers=0 code=47 char=67(g) false false
+--------------- 371 --------------
+  Sun Oct 06 17:01:25 EDT 2019
+ProcessKeyBinding 401 when=1570395685135 modifiers=0 code=43 char=63(c) false false
+--------------- 372 --------------
+  Sun Oct 06 17:01:25 EDT 2019
+Menu Activated: Edit | Change...
+--------------- 373 --------------
+  Sun Oct 06 17:01:25 EDT 2019
+ProcessKeyBinding 400 when=1570395685135 modifiers=0 code=0 char=63(c) false false
+--------------- 374 --------------
+  Sun Oct 06 17:01:25 EDT 2019
+ProcessKeyBinding 402 when=1570395685334 modifiers=0 code=43 char=63(c) false false
+--------------- 375 --------------
+  Sun Oct 06 17:01:50 EDT 2019
+ProcessKeyBinding 401 when=1570395710155 modifiers=0 code=56 char=76(v) false false
+--------------- 376 --------------
+  Sun Oct 06 17:01:50 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 377 --------------
+  Sun Oct 06 17:01:50 EDT 2019
+ProcessKeyBinding 400 when=1570395710155 modifiers=0 code=0 char=76(v) false false
+--------------- 378 --------------
+  Sun Oct 06 17:01:50 EDT 2019
+ProcessKeyBinding 402 when=1570395710294 modifiers=0 code=56 char=76(v) false false
+--------------- 379 --------------
+  Sun Oct 06 17:01:50 EDT 2019
+ProcessKeyBinding 401 when=1570395710582 modifiers=0 code=47 char=67(g) false false
+--------------- 380 --------------
+  Sun Oct 06 17:01:50 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 381 --------------
+  Sun Oct 06 17:01:50 EDT 2019
+ProcessKeyBinding 400 when=1570395710582 modifiers=0 code=0 char=67(g) false false
+--------------- 382 --------------
+  Sun Oct 06 17:01:50 EDT 2019
+ProcessKeyBinding 402 when=1570395710759 modifiers=0 code=47 char=67(g) false false
+--------------- 383 --------------
+  Sun Oct 06 17:01:51 EDT 2019
+ProcessKeyBinding 401 when=1570395711552 modifiers=0 code=56 char=76(v) false false
+--------------- 384 --------------
+  Sun Oct 06 17:01:51 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 385 --------------
+  Sun Oct 06 17:01:51 EDT 2019
+ProcessKeyBinding 400 when=1570395711552 modifiers=0 code=0 char=76(v) false false
+--------------- 386 --------------
+  Sun Oct 06 17:01:51 EDT 2019
+ProcessKeyBinding 402 when=1570395711700 modifiers=0 code=56 char=76(v) false false
+--------------- 387 --------------
+  Sun Oct 06 17:01:53 EDT 2019
+ProcessKeyBinding 401 when=1570395713907 modifiers=0 code=47 char=67(g) false false
+--------------- 388 --------------
+  Sun Oct 06 17:01:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 389 --------------
+  Sun Oct 06 17:01:53 EDT 2019
+ProcessKeyBinding 400 when=1570395713907 modifiers=0 code=0 char=67(g) false false
+--------------- 390 --------------
+  Sun Oct 06 17:01:54 EDT 2019
+ProcessKeyBinding 402 when=1570395714093 modifiers=0 code=47 char=67(g) false false
+--------------- 391 --------------
+  Sun Oct 06 17:01:54 EDT 2019
+ProcessKeyBinding 401 when=1570395714665 modifiers=0 code=56 char=76(v) false false
+--------------- 392 --------------
+  Sun Oct 06 17:01:54 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 393 --------------
+  Sun Oct 06 17:01:54 EDT 2019
+ProcessKeyBinding 400 when=1570395714665 modifiers=0 code=0 char=76(v) false false
+--------------- 394 --------------
+  Sun Oct 06 17:01:54 EDT 2019
+ProcessKeyBinding 402 when=1570395714782 modifiers=0 code=56 char=76(v) false false
+--------------- 395 --------------
+  Sun Oct 06 17:02:12 EDT 2019
+ProcessKeyBinding 401 when=1570395732065 modifiers=0 code=47 char=67(g) false false
+--------------- 396 --------------
+  Sun Oct 06 17:02:12 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 397 --------------
+  Sun Oct 06 17:02:12 EDT 2019
+ProcessKeyBinding 400 when=1570395732065 modifiers=0 code=0 char=67(g) false false
+--------------- 398 --------------
+  Sun Oct 06 17:02:53 EDT 2019
+ProcessKeyBinding 401 when=1570395773410 modifiers=0 code=47 char=67(g) false false
+--------------- 399 --------------
+  Sun Oct 06 17:02:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 400 --------------
+  Sun Oct 06 17:02:53 EDT 2019
+ProcessKeyBinding 400 when=1570395773410 modifiers=0 code=0 char=67(g) false false
+--------------- 401 --------------
+  Sun Oct 06 17:02:53 EDT 2019
+ProcessKeyBinding 402 when=1570395773535 modifiers=0 code=47 char=67(g) false false
+--------------- 402 --------------
+  Sun Oct 06 17:02:54 EDT 2019
+ProcessKeyBinding 401 when=1570395774378 modifiers=0 code=56 char=76(v) false false
+--------------- 403 --------------
+  Sun Oct 06 17:02:54 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 404 --------------
+  Sun Oct 06 17:02:54 EDT 2019
+ProcessKeyBinding 400 when=1570395774378 modifiers=0 code=0 char=76(v) false false
+--------------- 405 --------------
+  Sun Oct 06 17:02:54 EDT 2019
+ProcessKeyBinding 402 when=1570395774530 modifiers=0 code=56 char=76(v) false false
+--------------- 406 --------------
+  Sun Oct 06 17:03:14 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'arch{sch}': , 'debug_ecrire{ic}[debug_ec@2].ecrire_normal'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'arch{sch}': , 'Wire_Pin[pin@62].wire'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'arch{sch}': , 'Wire_Pin[pin@39].wire'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'arch{sch}': , wire['ecrire_R']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'arch{sch}': , wire['net@61']
+--------------- 407 --------------
+  Sun Oct 06 17:03:19 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 408 --------------
+  Sun Oct 06 17:03:37 EDT 2019
+ProcessKeyBinding 401 when=1570395817321 modifiers=0 code=47 char=67(g) false false
+--------------- 409 --------------
+  Sun Oct 06 17:03:37 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 410 --------------
+  Sun Oct 06 17:03:37 EDT 2019
+ProcessKeyBinding 400 when=1570395817321 modifiers=0 code=0 char=67(g) false false
+--------------- 411 --------------
+  Sun Oct 06 17:03:37 EDT 2019
+ProcessKeyBinding 402 when=1570395817465 modifiers=0 code=47 char=67(g) false false
+--------------- 412 --------------
+  Sun Oct 06 17:03:38 EDT 2019
+ProcessKeyBinding 401 when=1570395818508 modifiers=0 code=56 char=76(v) false false
+--------------- 413 --------------
+  Sun Oct 06 17:03:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 414 --------------
+  Sun Oct 06 17:03:38 EDT 2019
+ProcessKeyBinding 400 when=1570395818508 modifiers=0 code=0 char=76(v) false false
+--------------- 415 --------------
+  Sun Oct 06 17:03:38 EDT 2019
+ProcessKeyBinding 402 when=1570395818628 modifiers=0 code=56 char=76(v) false false
+--------------- 416 --------------
+  Sun Oct 06 17:03:39 EDT 2019
+ProcessKeyBinding 401 when=1570395819037 modifiers=0 code=47 char=67(g) false false
+--------------- 417 --------------
+  Sun Oct 06 17:03:39 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 418 --------------
+  Sun Oct 06 17:03:39 EDT 2019
+ProcessKeyBinding 400 when=1570395819037 modifiers=0 code=0 char=67(g) false false
+--------------- 419 --------------
+  Sun Oct 06 17:03:39 EDT 2019
+ProcessKeyBinding 402 when=1570395819146 modifiers=0 code=47 char=67(g) false false
+--------------- 420 --------------
+  Sun Oct 06 17:03:43 EDT 2019
+ProcessKeyBinding 401 when=1570395823796 modifiers=0 code=47 char=67(g) false false
+--------------- 421 --------------
+  Sun Oct 06 17:03:43 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 422 --------------
+  Sun Oct 06 17:03:43 EDT 2019
+ProcessKeyBinding 400 when=1570395823796 modifiers=0 code=0 char=67(g) false false
+--------------- 423 --------------
+  Sun Oct 06 17:03:52 EDT 2019
+ProcessKeyBinding 401 when=1570395832146 modifiers=0 code=47 char=67(g) false false
+--------------- 424 --------------
+  Sun Oct 06 17:03:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 425 --------------
+  Sun Oct 06 17:03:52 EDT 2019
+ProcessKeyBinding 400 when=1570395832146 modifiers=0 code=0 char=67(g) false false
+--------------- 426 --------------
+  Sun Oct 06 17:03:52 EDT 2019
+ProcessKeyBinding 402 when=1570395832258 modifiers=0 code=47 char=67(g) false false
+--------------- 427 --------------
+  Sun Oct 06 17:03:52 EDT 2019
+ProcessKeyBinding 401 when=1570395832586 modifiers=0 code=56 char=76(v) false false
+--------------- 428 --------------
+  Sun Oct 06 17:03:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 429 --------------
+  Sun Oct 06 17:03:52 EDT 2019
+ProcessKeyBinding 400 when=1570395832586 modifiers=0 code=0 char=76(v) false false
+--------------- 430 --------------
+  Sun Oct 06 17:03:52 EDT 2019
+ProcessKeyBinding 402 when=1570395832699 modifiers=0 code=56 char=76(v) false false
+--------------- 431 --------------
+  Sun Oct 06 17:03:53 EDT 2019
+ProcessKeyBinding 401 when=1570395833021 modifiers=0 code=47 char=67(g) false false
+--------------- 432 --------------
+  Sun Oct 06 17:03:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 433 --------------
+  Sun Oct 06 17:03:53 EDT 2019
+ProcessKeyBinding 400 when=1570395833021 modifiers=0 code=0 char=67(g) false false
+--------------- 434 --------------
+  Sun Oct 06 17:03:53 EDT 2019
+ProcessKeyBinding 402 when=1570395833131 modifiers=0 code=47 char=67(g) false false
+--------------- 435 --------------
+  Sun Oct 06 17:03:57 EDT 2019
+ProcessKeyBinding 401 when=1570395837352 modifiers=0 code=47 char=67(g) false false
+--------------- 436 --------------
+  Sun Oct 06 17:03:57 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 437 --------------
+  Sun Oct 06 17:03:57 EDT 2019
+ProcessKeyBinding 400 when=1570395837352 modifiers=0 code=0 char=67(g) false false
+--------------- 438 --------------
+  Sun Oct 06 17:03:57 EDT 2019
+ProcessKeyBinding 402 when=1570395837479 modifiers=0 code=47 char=67(g) false false
+--------------- 439 --------------
+  Sun Oct 06 17:04:02 EDT 2019
+ProcessKeyBinding 401 when=1570395842578 modifiers=0 code=56 char=76(v) false false
+--------------- 440 --------------
+  Sun Oct 06 17:04:02 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 441 --------------
+  Sun Oct 06 17:04:02 EDT 2019
+ProcessKeyBinding 400 when=1570395842578 modifiers=0 code=0 char=76(v) false false
+--------------- 442 --------------
+  Sun Oct 06 17:04:02 EDT 2019
+ProcessKeyBinding 402 when=1570395842687 modifiers=0 code=56 char=76(v) false false
+--------------- 443 --------------
+  Sun Oct 06 17:04:08 EDT 2019
+ProcessKeyBinding 401 when=1570395848998 modifiers=0 code=56 char=76(v) false false
+--------------- 444 --------------
+  Sun Oct 06 17:04:08 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 445 --------------
+  Sun Oct 06 17:04:09 EDT 2019
+ProcessKeyBinding 400 when=1570395848998 modifiers=0 code=0 char=76(v) false false
+--------------- 446 --------------
+  Sun Oct 06 17:04:09 EDT 2019
+ProcessKeyBinding 402 when=1570395849117 modifiers=0 code=56 char=76(v) false false
+--------------- 447 --------------
+  Sun Oct 06 17:04:09 EDT 2019
+ProcessKeyBinding 401 when=1570395849610 modifiers=0 code=47 char=67(g) false false
+--------------- 448 --------------
+  Sun Oct 06 17:04:09 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 449 --------------
+  Sun Oct 06 17:04:09 EDT 2019
+ProcessKeyBinding 400 when=1570395849610 modifiers=0 code=0 char=67(g) false false
+--------------- 450 --------------
+  Sun Oct 06 17:04:09 EDT 2019
+ProcessKeyBinding 402 when=1570395849721 modifiers=0 code=47 char=67(g) false false
+--------------- 451 --------------
+  Sun Oct 06 17:04:14 EDT 2019
+ProcessKeyBinding 401 when=1570395854554 modifiers=0 code=47 char=67(g) false false
+--------------- 452 --------------
+  Sun Oct 06 17:04:14 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 453 --------------
+  Sun Oct 06 17:04:14 EDT 2019
+ProcessKeyBinding 400 when=1570395854554 modifiers=0 code=0 char=67(g) false false
+--------------- 454 --------------
+  Sun Oct 06 17:04:14 EDT 2019
+ProcessKeyBinding 402 when=1570395854724 modifiers=0 code=47 char=67(g) false false
+--------------- 455 --------------
+  Sun Oct 06 17:04:23 EDT 2019
+ProcessKeyBinding 401 when=1570395863875 modifiers=0 code=56 char=76(v) false false
+--------------- 456 --------------
+  Sun Oct 06 17:04:23 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 457 --------------
+  Sun Oct 06 17:04:23 EDT 2019
+ProcessKeyBinding 400 when=1570395863875 modifiers=0 code=0 char=76(v) false false
+--------------- 458 --------------
+  Sun Oct 06 17:04:35 EDT 2019
+ProcessKeyBinding 401 when=1570395875625 modifiers=0 code=47 char=67(g) false false
+--------------- 459 --------------
+  Sun Oct 06 17:04:35 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 460 --------------
+  Sun Oct 06 17:04:35 EDT 2019
+ProcessKeyBinding 400 when=1570395875625 modifiers=0 code=0 char=67(g) false false
+--------------- 461 --------------
+  Sun Oct 06 17:04:35 EDT 2019
+ProcessKeyBinding 402 when=1570395875754 modifiers=0 code=47 char=67(g) false false
+--------------- 462 --------------
+  Sun Oct 06 17:04:38 EDT 2019
+ProcessKeyBinding 401 when=1570395878849 modifiers=0 code=56 char=76(v) false false
+--------------- 463 --------------
+  Sun Oct 06 17:04:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 464 --------------
+  Sun Oct 06 17:04:38 EDT 2019
+ProcessKeyBinding 400 when=1570395878849 modifiers=0 code=0 char=76(v) false false
+--------------- 465 --------------
+  Sun Oct 06 17:04:38 EDT 2019
+ProcessKeyBinding 402 when=1570395878969 modifiers=0 code=56 char=76(v) false false
+--------------- 466 --------------
+  Sun Oct 06 17:04:41 EDT 2019
+ProcessKeyBinding 401 when=1570395881499 modifiers=0 code=47 char=67(g) false false
+--------------- 467 --------------
+  Sun Oct 06 17:04:41 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 468 --------------
+  Sun Oct 06 17:04:41 EDT 2019
+ProcessKeyBinding 400 when=1570395881499 modifiers=0 code=0 char=67(g) false false
+--------------- 469 --------------
+  Sun Oct 06 17:04:41 EDT 2019
+ProcessKeyBinding 402 when=1570395881632 modifiers=0 code=47 char=67(g) false false
+--------------- 470 --------------
+  Sun Oct 06 17:05:02 EDT 2019
+ProcessKeyBinding 401 when=1570395902652 modifiers=0 code=47 char=67(g) false false
+--------------- 471 --------------
+  Sun Oct 06 17:05:02 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 472 --------------
+  Sun Oct 06 17:05:02 EDT 2019
+ProcessKeyBinding 400 when=1570395902652 modifiers=0 code=0 char=67(g) false false
+--------------- 473 --------------
+  Sun Oct 06 17:05:02 EDT 2019
+ProcessKeyBinding 402 when=1570395902791 modifiers=0 code=47 char=67(g) false false
+--------------- 474 --------------
+  Sun Oct 06 17:05:05 EDT 2019
+ProcessKeyBinding 401 when=1570395905651 modifiers=0 code=47 char=67(g) false false
+--------------- 475 --------------
+  Sun Oct 06 17:05:05 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 476 --------------
+  Sun Oct 06 17:05:05 EDT 2019
+ProcessKeyBinding 400 when=1570395905651 modifiers=0 code=0 char=67(g) false false
+--------------- 477 --------------
+  Sun Oct 06 17:05:15 EDT 2019
+ProcessKeyBinding 401 when=1570395915988 modifiers=0 code=47 char=67(g) false false
+--------------- 478 --------------
+  Sun Oct 06 17:05:15 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 479 --------------
+  Sun Oct 06 17:05:16 EDT 2019
+ProcessKeyBinding 400 when=1570395915988 modifiers=0 code=0 char=67(g) false false
+--------------- 480 --------------
+  Sun Oct 06 17:05:16 EDT 2019
+ProcessKeyBinding 402 when=1570395916133 modifiers=0 code=47 char=67(g) false false
+--------------- 481 --------------
+  Sun Oct 06 17:05:19 EDT 2019
+ProcessKeyBinding 401 when=1570395919829 modifiers=0 code=47 char=67(g) false false
+--------------- 482 --------------
+  Sun Oct 06 17:05:19 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 483 --------------
+  Sun Oct 06 17:05:19 EDT 2019
+ProcessKeyBinding 400 when=1570395919829 modifiers=0 code=0 char=67(g) false false
+--------------- 484 --------------
+  Sun Oct 06 17:05:19 EDT 2019
+ProcessKeyBinding 402 when=1570395919936 modifiers=0 code=47 char=67(g) false false
+--------------- 485 --------------
+  Sun Oct 06 17:05:24 EDT 2019
+ProcessKeyBinding 401 when=1570395924794 modifiers=0 code=47 char=67(g) false false
+--------------- 486 --------------
+  Sun Oct 06 17:05:24 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 487 --------------
+  Sun Oct 06 17:05:24 EDT 2019
+ProcessKeyBinding 400 when=1570395924794 modifiers=0 code=0 char=67(g) false false
+--------------- 488 --------------
+  Sun Oct 06 17:05:24 EDT 2019
+ProcessKeyBinding 402 when=1570395924907 modifiers=0 code=47 char=67(g) false false
+--------------- 489 --------------
+  Sun Oct 06 17:05:30 EDT 2019
+ProcessKeyBinding 401 when=1570395930388 modifiers=0 code=56 char=76(v) false false
+--------------- 490 --------------
+  Sun Oct 06 17:05:30 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 491 --------------
+  Sun Oct 06 17:05:30 EDT 2019
+ProcessKeyBinding 400 when=1570395930388 modifiers=0 code=0 char=76(v) false false
+--------------- 492 --------------
+  Sun Oct 06 17:05:30 EDT 2019
+ProcessKeyBinding 402 when=1570395930530 modifiers=0 code=56 char=76(v) false false
+--------------- 493 --------------
+  Sun Oct 06 17:05:35 EDT 2019
+ProcessKeyBinding 401 when=1570395935814 modifiers=0 code=47 char=67(g) false false
+--------------- 494 --------------
+  Sun Oct 06 17:05:35 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 495 --------------
+  Sun Oct 06 17:05:35 EDT 2019
+ProcessKeyBinding 400 when=1570395935814 modifiers=0 code=0 char=67(g) false false
+--------------- 496 --------------
+  Sun Oct 06 17:05:35 EDT 2019
+ProcessKeyBinding 402 when=1570395935939 modifiers=0 code=47 char=67(g) false false
+--------------- 497 --------------
+  Sun Oct 06 17:05:45 EDT 2019
+ProcessKeyBinding 401 when=1570395945360 modifiers=0 code=30 char=30(0) false false
+--------------- 498 --------------
+  Sun Oct 06 17:05:45 EDT 2019
+Menu Activated: Shortcuts | Wire to Poly
+--------------- 499 --------------
+  Sun Oct 06 17:05:45 EDT 2019
+ProcessKeyBinding 400 when=1570395945360 modifiers=0 code=0 char=30(0) false false
+--------------- 500 --------------
+  Sun Oct 06 17:05:45 EDT 2019
+ProcessKeyBinding 402 when=1570395945436 modifiers=0 code=30 char=30(0) false false
+--------------- 501 --------------
+  Sun Oct 06 17:05:45 EDT 2019
+ProcessKeyBinding 401 when=1570395945738 modifiers=0 code=41 char=61(a) false false
+--------------- 502 --------------
+  Sun Oct 06 17:05:45 EDT 2019
+Menu Activated: Edit | Selection | Add to Waveform in New Panel
+--------------- 503 --------------
+  Sun Oct 06 17:05:45 EDT 2019
+ProcessKeyBinding 400 when=1570395945738 modifiers=0 code=0 char=61(a) false false
+--------------- 504 --------------
+  Sun Oct 06 17:05:45 EDT 2019
+ProcessKeyBinding 402 when=1570395945843 modifiers=0 code=41 char=61(a) false false
+--------------- 505 --------------
+  Sun Oct 06 17:05:48 EDT 2019
+ProcessKeyBinding 401 when=1570395948812 modifiers=0 code=47 char=67(g) false false
+--------------- 506 --------------
+  Sun Oct 06 17:05:48 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 507 --------------
+  Sun Oct 06 17:05:48 EDT 2019
+ProcessKeyBinding 400 when=1570395948812 modifiers=0 code=0 char=67(g) false false
+--------------- 508 --------------
+  Sun Oct 06 17:06:13 EDT 2019
+ProcessKeyBinding 401 when=1570395973493 modifiers=0 code=56 char=76(v) false false
+--------------- 509 --------------
+  Sun Oct 06 17:06:13 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 510 --------------
+  Sun Oct 06 17:06:13 EDT 2019
+ProcessKeyBinding 400 when=1570395973493 modifiers=0 code=0 char=76(v) false false
+--------------- 511 --------------
+  Sun Oct 06 17:06:13 EDT 2019
+ProcessKeyBinding 402 when=1570395973612 modifiers=0 code=56 char=76(v) false false
+--------------- 512 --------------
+  Sun Oct 06 17:06:15 EDT 2019
+ProcessKeyBinding 401 when=1570395975947 modifiers=0 code=47 char=67(g) false false
+--------------- 513 --------------
+  Sun Oct 06 17:06:15 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 514 --------------
+  Sun Oct 06 17:06:15 EDT 2019
+ProcessKeyBinding 400 when=1570395975947 modifiers=0 code=0 char=67(g) false false
+--------------- 515 --------------
+  Sun Oct 06 17:06:16 EDT 2019
+ProcessKeyBinding 402 when=1570395976056 modifiers=0 code=47 char=67(g) false false
+--------------- 516 --------------
+  Sun Oct 06 17:06:23 EDT 2019
+ProcessKeyBinding 401 when=1570395983730 modifiers=0 code=47 char=67(g) false false
+--------------- 517 --------------
+  Sun Oct 06 17:06:23 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 518 --------------
+  Sun Oct 06 17:06:23 EDT 2019
+ProcessKeyBinding 400 when=1570395983730 modifiers=0 code=0 char=67(g) false false
+--------------- 519 --------------
+  Sun Oct 06 17:06:23 EDT 2019
+ProcessKeyBinding 402 when=1570395983864 modifiers=0 code=47 char=67(g) false false
+--------------- 520 --------------
+  Sun Oct 06 17:06:46 EDT 2019
+ProcessKeyBinding 401 when=1570396006212 modifiers=0 code=47 char=67(g) false false
+--------------- 521 --------------
+  Sun Oct 06 17:06:46 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 522 --------------
+  Sun Oct 06 17:06:46 EDT 2019
+ProcessKeyBinding 400 when=1570396006212 modifiers=0 code=0 char=67(g) false false
+--------------- 523 --------------
+  Sun Oct 06 17:06:46 EDT 2019
+ProcessKeyBinding 402 when=1570396006338 modifiers=0 code=47 char=67(g) false false
+--------------- 524 --------------
+  Sun Oct 06 17:06:48 EDT 2019
+ProcessKeyBinding 401 when=1570396008347 modifiers=0 code=47 char=67(g) false false
+--------------- 525 --------------
+  Sun Oct 06 17:06:48 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 526 --------------
+  Sun Oct 06 17:06:48 EDT 2019
+ProcessKeyBinding 400 when=1570396008347 modifiers=0 code=0 char=67(g) false false
+--------------- 527 --------------
+  Sun Oct 06 17:06:48 EDT 2019
+ProcessKeyBinding 402 when=1570396008437 modifiers=0 code=47 char=67(g) false false
+--------------- 528 --------------
+  Sun Oct 06 17:06:52 EDT 2019
+ProcessKeyBinding 401 when=1570396012004 modifiers=0 code=47 char=67(g) false false
+--------------- 529 --------------
+  Sun Oct 06 17:06:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 530 --------------
+  Sun Oct 06 17:06:52 EDT 2019
+ProcessKeyBinding 400 when=1570396012004 modifiers=0 code=0 char=67(g) false false
+--------------- 531 --------------
+  Sun Oct 06 17:07:03 EDT 2019
+ProcessKeyBinding 401 when=1570396023892 modifiers=0 code=47 char=67(g) false false
+--------------- 532 --------------
+  Sun Oct 06 17:07:03 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 533 --------------
+  Sun Oct 06 17:07:03 EDT 2019
+ProcessKeyBinding 400 when=1570396023892 modifiers=0 code=0 char=67(g) false false
+--------------- 534 --------------
+  Sun Oct 06 17:07:04 EDT 2019
+ProcessKeyBinding 402 when=1570396024034 modifiers=0 code=47 char=67(g) false false
+--------------- 535 --------------
+  Sun Oct 06 17:07:08 EDT 2019
+ProcessKeyBinding 401 when=1570396028567 modifiers=0 code=56 char=76(v) false false
+--------------- 536 --------------
+  Sun Oct 06 17:07:08 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 537 --------------
+  Sun Oct 06 17:07:08 EDT 2019
+ProcessKeyBinding 400 when=1570396028567 modifiers=0 code=0 char=76(v) false false
+--------------- 538 --------------
+  Sun Oct 06 17:07:08 EDT 2019
+ProcessKeyBinding 402 when=1570396028691 modifiers=0 code=56 char=76(v) false false
+--------------- 539 --------------
+  Sun Oct 06 17:07:13 EDT 2019
+ProcessKeyBinding 401 when=1570396033180 modifiers=0 code=47 char=67(g) false false
+--------------- 540 --------------
+  Sun Oct 06 17:07:13 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 541 --------------
+  Sun Oct 06 17:07:13 EDT 2019
+ProcessKeyBinding 400 when=1570396033180 modifiers=0 code=0 char=67(g) false false
+--------------- 542 --------------
+  Sun Oct 06 17:07:13 EDT 2019
+ProcessKeyBinding 402 when=1570396033315 modifiers=0 code=47 char=67(g) false false
+--------------- 543 --------------
+  Sun Oct 06 17:07:15 EDT 2019
+ProcessKeyBinding 401 when=1570396035761 modifiers=0 code=47 char=67(g) false false
+--------------- 544 --------------
+  Sun Oct 06 17:07:15 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 545 --------------
+  Sun Oct 06 17:07:15 EDT 2019
+ProcessKeyBinding 400 when=1570396035761 modifiers=0 code=0 char=67(g) false false
+--------------- 546 --------------
+  Sun Oct 06 17:07:15 EDT 2019
+ProcessKeyBinding 402 when=1570396035893 modifiers=0 code=47 char=67(g) false false
+--------------- 547 --------------
+  Sun Oct 06 17:07:21 EDT 2019
+ProcessKeyBinding 401 when=1570396041100 modifiers=0 code=47 char=67(g) false false
+--------------- 548 --------------
+  Sun Oct 06 17:07:21 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 549 --------------
+  Sun Oct 06 17:07:21 EDT 2019
+ProcessKeyBinding 400 when=1570396041100 modifiers=0 code=0 char=67(g) false false
+--------------- 550 --------------
+  Sun Oct 06 17:07:21 EDT 2019
+ProcessKeyBinding 402 when=1570396041241 modifiers=0 code=47 char=67(g) false false
+--------------- 551 --------------
+  Sun Oct 06 17:07:30 EDT 2019
+ProcessKeyBinding 401 when=1570396050685 modifiers=0 code=47 char=67(g) false false
+--------------- 552 --------------
+  Sun Oct 06 17:07:30 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 553 --------------
+  Sun Oct 06 17:07:30 EDT 2019
+ProcessKeyBinding 400 when=1570396050685 modifiers=0 code=0 char=67(g) false false
+--------------- 554 --------------
+  Sun Oct 06 17:07:49 EDT 2019
+ProcessKeyBinding 401 when=1570396069932 modifiers=0 code=56 char=76(v) false false
+--------------- 555 --------------
+  Sun Oct 06 17:07:49 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 556 --------------
+  Sun Oct 06 17:07:49 EDT 2019
+ProcessKeyBinding 400 when=1570396069932 modifiers=0 code=0 char=76(v) false false
+--------------- 557 --------------
+  Sun Oct 06 17:07:50 EDT 2019
+ProcessKeyBinding 402 when=1570396070082 modifiers=0 code=56 char=76(v) false false
+--------------- 558 --------------
+  Sun Oct 06 17:07:55 EDT 2019
+ProcessKeyBinding 401 when=1570396075231 modifiers=0 code=47 char=67(g) false false
+--------------- 559 --------------
+  Sun Oct 06 17:07:55 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 560 --------------
+  Sun Oct 06 17:07:55 EDT 2019
+ProcessKeyBinding 400 when=1570396075231 modifiers=0 code=0 char=67(g) false false
+--------------- 561 --------------
+  Sun Oct 06 17:07:55 EDT 2019
+ProcessKeyBinding 402 when=1570396075344 modifiers=0 code=47 char=67(g) false false
+--------------- 562 --------------
+  Sun Oct 06 17:08:01 EDT 2019
+ProcessKeyBinding 401 when=1570396081220 modifiers=0 code=47 char=67(g) false false
+--------------- 563 --------------
+  Sun Oct 06 17:08:01 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 564 --------------
+  Sun Oct 06 17:08:01 EDT 2019
+ProcessKeyBinding 400 when=1570396081220 modifiers=0 code=0 char=67(g) false false
+--------------- 565 --------------
+  Sun Oct 06 17:08:01 EDT 2019
+ProcessKeyBinding 402 when=1570396081379 modifiers=0 code=47 char=67(g) false false
+--------------- 566 --------------
+  Sun Oct 06 17:08:25 EDT 2019
+ProcessKeyBinding 401 when=1570396105403 modifiers=0 code=47 char=67(g) false false
+--------------- 567 --------------
+  Sun Oct 06 17:08:25 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 568 --------------
+  Sun Oct 06 17:08:25 EDT 2019
+ProcessKeyBinding 400 when=1570396105403 modifiers=0 code=0 char=67(g) false false
+--------------- 569 --------------
+  Sun Oct 06 17:08:25 EDT 2019
+ProcessKeyBinding 402 when=1570396105511 modifiers=0 code=47 char=67(g) false false
+--------------- 570 --------------
+  Sun Oct 06 17:08:27 EDT 2019
+ProcessKeyBinding 401 when=1570396107423 modifiers=0 code=47 char=67(g) false false
+--------------- 571 --------------
+  Sun Oct 06 17:08:27 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 572 --------------
+  Sun Oct 06 17:08:27 EDT 2019
+ProcessKeyBinding 400 when=1570396107423 modifiers=0 code=0 char=67(g) false false
+--------------- 573 --------------
+  Sun Oct 06 17:08:39 EDT 2019
+ProcessKeyBinding 401 when=1570396119555 modifiers=0 code=47 char=67(g) false false
+--------------- 574 --------------
+  Sun Oct 06 17:08:39 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 575 --------------
+  Sun Oct 06 17:08:39 EDT 2019
+ProcessKeyBinding 400 when=1570396119555 modifiers=0 code=0 char=67(g) false false
+--------------- 576 --------------
+  Sun Oct 06 17:08:39 EDT 2019
+ProcessKeyBinding 402 when=1570396119682 modifiers=0 code=47 char=67(g) false false
+--------------- 577 --------------
+  Sun Oct 06 17:08:45 EDT 2019
+ProcessKeyBinding 401 when=1570396125516 modifiers=0 code=47 char=67(g) false false
+--------------- 578 --------------
+  Sun Oct 06 17:08:45 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 579 --------------
+  Sun Oct 06 17:08:45 EDT 2019
+ProcessKeyBinding 400 when=1570396125516 modifiers=0 code=0 char=67(g) false false
+--------------- 580 --------------
+  Sun Oct 06 17:08:45 EDT 2019
+ProcessKeyBinding 402 when=1570396125649 modifiers=0 code=47 char=67(g) false false
+--------------- 581 --------------
+  Sun Oct 06 17:08:52 EDT 2019
+ProcessKeyBinding 401 when=1570396132770 modifiers=0 code=56 char=76(v) false false
+--------------- 582 --------------
+  Sun Oct 06 17:08:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 583 --------------
+  Sun Oct 06 17:08:52 EDT 2019
+ProcessKeyBinding 400 when=1570396132770 modifiers=0 code=0 char=76(v) false false
+--------------- 584 --------------
+  Sun Oct 06 17:08:52 EDT 2019
+ProcessKeyBinding 402 when=1570396132912 modifiers=0 code=56 char=76(v) false false
+--------------- 585 --------------
+  Sun Oct 06 17:08:59 EDT 2019
+ProcessKeyBinding 401 when=1570396139447 modifiers=0 code=56 char=76(v) false false
+--------------- 586 --------------
+  Sun Oct 06 17:08:59 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 587 --------------
+  Sun Oct 06 17:08:59 EDT 2019
+ProcessKeyBinding 400 when=1570396139447 modifiers=0 code=0 char=76(v) false false
+--------------- 588 --------------
+  Sun Oct 06 17:08:59 EDT 2019
+ProcessKeyBinding 402 when=1570396139570 modifiers=0 code=56 char=76(v) false false
+--------------- 589 --------------
+  Sun Oct 06 17:09:00 EDT 2019
+ProcessKeyBinding 401 when=1570396140050 modifiers=0 code=47 char=67(g) false false
+--------------- 590 --------------
+  Sun Oct 06 17:09:00 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 591 --------------
+  Sun Oct 06 17:09:00 EDT 2019
+ProcessKeyBinding 400 when=1570396140050 modifiers=0 code=0 char=67(g) false false
+--------------- 592 --------------
+  Sun Oct 06 17:09:00 EDT 2019
+ProcessKeyBinding 402 when=1570396140215 modifiers=0 code=47 char=67(g) false false
+--------------- 593 --------------
+  Sun Oct 06 17:09:05 EDT 2019
+ProcessKeyBinding 401 when=1570396145024 modifiers=0 code=47 char=67(g) false false
+--------------- 594 --------------
+  Sun Oct 06 17:09:05 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 595 --------------
+  Sun Oct 06 17:09:05 EDT 2019
+ProcessKeyBinding 400 when=1570396145024 modifiers=0 code=0 char=67(g) false false
+--------------- 596 --------------
+  Sun Oct 06 17:09:05 EDT 2019
+ProcessKeyBinding 402 when=1570396145146 modifiers=0 code=47 char=67(g) false false
+--------------- 597 --------------
+  Sun Oct 06 17:09:12 EDT 2019
+ProcessKeyBinding 401 when=1570396152550 modifiers=0 code=47 char=67(g) false false
+--------------- 598 --------------
+  Sun Oct 06 17:09:12 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 599 --------------
+  Sun Oct 06 17:09:12 EDT 2019
+ProcessKeyBinding 400 when=1570396152550 modifiers=0 code=0 char=67(g) false false
+--------------- 600 --------------
+  Sun Oct 06 17:09:30 EDT 2019
+ProcessKeyBinding 401 when=1570396170534 modifiers=0 code=47 char=67(g) false false
+--------------- 601 --------------
+  Sun Oct 06 17:09:30 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 602 --------------
+  Sun Oct 06 17:09:30 EDT 2019
+ProcessKeyBinding 400 when=1570396170534 modifiers=0 code=0 char=67(g) false false
+--------------- 603 --------------
+  Sun Oct 06 17:09:30 EDT 2019
+ProcessKeyBinding 402 when=1570396170664 modifiers=0 code=47 char=67(g) false false
+--------------- 604 --------------
+  Sun Oct 06 17:09:33 EDT 2019
+ProcessKeyBinding 401 when=1570396173937 modifiers=0 code=47 char=67(g) false false
+--------------- 605 --------------
+  Sun Oct 06 17:09:33 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 606 --------------
+  Sun Oct 06 17:09:33 EDT 2019
+ProcessKeyBinding 400 when=1570396173937 modifiers=0 code=0 char=67(g) false false
+--------------- 607 --------------
+  Sun Oct 06 17:09:34 EDT 2019
+ProcessKeyBinding 402 when=1570396174083 modifiers=0 code=47 char=67(g) false false
+--------------- 608 --------------
+  Sun Oct 06 17:09:40 EDT 2019
+ProcessKeyBinding 401 when=1570396180397 modifiers=0 code=56 char=76(v) false false
+--------------- 609 --------------
+  Sun Oct 06 17:09:40 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 610 --------------
+  Sun Oct 06 17:09:40 EDT 2019
+ProcessKeyBinding 400 when=1570396180397 modifiers=0 code=0 char=76(v) false false
+--------------- 611 --------------
+  Sun Oct 06 17:09:40 EDT 2019
+ProcessKeyBinding 402 when=1570396180525 modifiers=0 code=56 char=76(v) false false
+--------------- 612 --------------
+  Sun Oct 06 17:10:10 EDT 2019
+ProcessKeyBinding 401 when=1570396210971 modifiers=0 code=47 char=67(g) false false
+--------------- 613 --------------
+  Sun Oct 06 17:10:10 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 614 --------------
+  Sun Oct 06 17:10:10 EDT 2019
+ProcessKeyBinding 400 when=1570396210971 modifiers=0 code=0 char=67(g) false false
+--------------- 615 --------------
+  Sun Oct 06 17:10:11 EDT 2019
+ProcessKeyBinding 402 when=1570396211073 modifiers=0 code=47 char=67(g) false false
+--------------- 616 --------------
+  Sun Oct 06 17:10:21 EDT 2019
+ProcessKeyBinding 401 when=1570396221880 modifiers=0 code=47 char=67(g) false false
+--------------- 617 --------------
+  Sun Oct 06 17:10:21 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 618 --------------
+  Sun Oct 06 17:10:21 EDT 2019
+ProcessKeyBinding 400 when=1570396221880 modifiers=0 code=0 char=67(g) false false
+--------------- 619 --------------
+  Sun Oct 06 17:10:29 EDT 2019
+ProcessKeyBinding 401 when=1570396229236 modifiers=0 code=47 char=67(g) false false
+--------------- 620 --------------
+  Sun Oct 06 17:10:29 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 621 --------------
+  Sun Oct 06 17:10:29 EDT 2019
+ProcessKeyBinding 400 when=1570396229236 modifiers=0 code=0 char=67(g) false false
+--------------- 622 --------------
+  Sun Oct 06 17:10:29 EDT 2019
+ProcessKeyBinding 402 when=1570396229348 modifiers=0 code=47 char=67(g) false false
+--------------- 623 --------------
+  Sun Oct 06 17:10:34 EDT 2019
+ProcessKeyBinding 401 when=1570396234771 modifiers=0 code=47 char=67(g) false false
+--------------- 624 --------------
+  Sun Oct 06 17:10:34 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 625 --------------
+  Sun Oct 06 17:10:34 EDT 2019
+ProcessKeyBinding 400 when=1570396234771 modifiers=0 code=0 char=67(g) false false
+--------------- 626 --------------
+  Sun Oct 06 17:10:34 EDT 2019
+ProcessKeyBinding 402 when=1570396234890 modifiers=0 code=47 char=67(g) false false
+--------------- 627 --------------
+  Sun Oct 06 17:10:39 EDT 2019
+ProcessKeyBinding 401 when=1570396239599 modifiers=0 code=56 char=76(v) false false
+--------------- 628 --------------
+  Sun Oct 06 17:10:39 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 629 --------------
+  Sun Oct 06 17:10:39 EDT 2019
+ProcessKeyBinding 400 when=1570396239599 modifiers=0 code=0 char=76(v) false false
+--------------- 630 --------------
+  Sun Oct 06 17:10:39 EDT 2019
+ProcessKeyBinding 402 when=1570396239700 modifiers=0 code=56 char=76(v) false false
+--------------- 631 --------------
+  Sun Oct 06 17:10:42 EDT 2019
+ProcessKeyBinding 401 when=1570396242516 modifiers=0 code=47 char=67(g) false false
+--------------- 632 --------------
+  Sun Oct 06 17:10:42 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 633 --------------
+  Sun Oct 06 17:10:42 EDT 2019
+ProcessKeyBinding 400 when=1570396242516 modifiers=0 code=0 char=67(g) false false
+--------------- 634 --------------
+  Sun Oct 06 17:10:42 EDT 2019
+ProcessKeyBinding 402 when=1570396242677 modifiers=0 code=47 char=67(g) false false
+--------------- 635 --------------
+  Sun Oct 06 17:10:43 EDT 2019
+ProcessKeyBinding 401 when=1570396243063 modifiers=0 code=56 char=76(v) false false
+--------------- 636 --------------
+  Sun Oct 06 17:10:43 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 637 --------------
+  Sun Oct 06 17:10:43 EDT 2019
+ProcessKeyBinding 400 when=1570396243063 modifiers=0 code=0 char=76(v) false false
+--------------- 638 --------------
+  Sun Oct 06 17:10:43 EDT 2019
+ProcessKeyBinding 402 when=1570396243204 modifiers=0 code=56 char=76(v) false false
+--------------- 639 --------------
+  Sun Oct 06 17:10:51 EDT 2019
+ProcessKeyBinding 401 when=1570396251231 modifiers=0 code=47 char=67(g) false false
+--------------- 640 --------------
+  Sun Oct 06 17:10:51 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 641 --------------
+  Sun Oct 06 17:10:51 EDT 2019
+ProcessKeyBinding 400 when=1570396251231 modifiers=0 code=0 char=67(g) false false
+--------------- 642 --------------
+  Sun Oct 06 17:10:51 EDT 2019
+ProcessKeyBinding 402 when=1570396251358 modifiers=0 code=47 char=67(g) false false
+--------------- 643 --------------
+  Sun Oct 06 17:10:58 EDT 2019
+ProcessKeyBinding 401 when=1570396258572 modifiers=0 code=47 char=67(g) false false
+--------------- 644 --------------
+  Sun Oct 06 17:10:58 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 645 --------------
+  Sun Oct 06 17:10:58 EDT 2019
+ProcessKeyBinding 400 when=1570396258572 modifiers=0 code=0 char=67(g) false false
+--------------- 646 --------------
+  Sun Oct 06 17:10:58 EDT 2019
+ProcessKeyBinding 402 when=1570396258697 modifiers=0 code=47 char=67(g) false false
+--------------- 647 --------------
+  Sun Oct 06 17:11:05 EDT 2019
+ProcessKeyBinding 401 when=1570396265434 modifiers=0 code=47 char=67(g) false false
+--------------- 648 --------------
+  Sun Oct 06 17:11:05 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 649 --------------
+  Sun Oct 06 17:11:05 EDT 2019
+ProcessKeyBinding 400 when=1570396265434 modifiers=0 code=0 char=67(g) false false
+--------------- 650 --------------
+  Sun Oct 06 17:11:33 EDT 2019
+ProcessKeyBinding 401 when=1570396293837 modifiers=0 code=43 char=63(c) false false
+--------------- 651 --------------
+  Sun Oct 06 17:11:33 EDT 2019
+Menu Activated: Edit | Change...
+--------------- 652 --------------
+  Sun Oct 06 17:11:33 EDT 2019
+ProcessKeyBinding 400 when=1570396293837 modifiers=0 code=0 char=63(c) false false
+--------------- 653 --------------
+  Sun Oct 06 17:11:40 EDT 2019
+ProcessKeyBinding 401 when=1570396300047 modifiers=0 code=47 char=67(g) false false
+--------------- 654 --------------
+  Sun Oct 06 17:11:40 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 655 --------------
+  Sun Oct 06 17:11:40 EDT 2019
+ProcessKeyBinding 400 when=1570396300047 modifiers=0 code=0 char=67(g) false false
+--------------- 656 --------------
+  Sun Oct 06 17:11:40 EDT 2019
+ProcessKeyBinding 402 when=1570396300242 modifiers=0 code=47 char=67(g) false false
+--------------- 657 --------------
+  Sun Oct 06 17:11:41 EDT 2019
+ProcessKeyBinding 401 when=1570396301811 modifiers=0 code=56 char=76(v) false false
+--------------- 658 --------------
+  Sun Oct 06 17:11:41 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 659 --------------
+  Sun Oct 06 17:11:41 EDT 2019
+ProcessKeyBinding 400 when=1570396301811 modifiers=0 code=0 char=76(v) false false
+--------------- 660 --------------
+  Sun Oct 06 17:11:41 EDT 2019
+ProcessKeyBinding 402 when=1570396301941 modifiers=0 code=56 char=76(v) false false
+--------------- 661 --------------
+  Sun Oct 06 17:11:42 EDT 2019
+ProcessKeyBinding 401 when=1570396302962 modifiers=0 code=47 char=67(g) false false
+--------------- 662 --------------
+  Sun Oct 06 17:11:42 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 663 --------------
+  Sun Oct 06 17:11:42 EDT 2019
+ProcessKeyBinding 400 when=1570396302962 modifiers=0 code=0 char=67(g) false false
+--------------- 664 --------------
+  Sun Oct 06 17:11:43 EDT 2019
+ProcessKeyBinding 402 when=1570396303114 modifiers=0 code=47 char=67(g) false false
+--------------- 665 --------------
+  Sun Oct 06 17:11:43 EDT 2019
+ProcessKeyBinding 401 when=1570396303392 modifiers=0 code=56 char=76(v) false false
+--------------- 666 --------------
+  Sun Oct 06 17:11:43 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 667 --------------
+  Sun Oct 06 17:11:43 EDT 2019
+ProcessKeyBinding 400 when=1570396303392 modifiers=0 code=0 char=76(v) false false
+--------------- 668 --------------
+  Sun Oct 06 17:11:43 EDT 2019
+ProcessKeyBinding 402 when=1570396303531 modifiers=0 code=56 char=76(v) false false
+--------------- 669 --------------
+  Sun Oct 06 17:11:53 EDT 2019
+ProcessKeyBinding 401 when=1570396313341 modifiers=0 code=47 char=67(g) false false
+--------------- 670 --------------
+  Sun Oct 06 17:11:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 671 --------------
+  Sun Oct 06 17:11:53 EDT 2019
+ProcessKeyBinding 400 when=1570396313341 modifiers=0 code=0 char=67(g) false false
+--------------- 672 --------------
+  Sun Oct 06 17:11:53 EDT 2019
+ProcessKeyBinding 402 when=1570396313461 modifiers=0 code=47 char=67(g) false false
+--------------- 673 --------------
+  Sun Oct 06 17:12:00 EDT 2019
+ProcessKeyBinding 401 when=1570396320295 modifiers=0 code=47 char=67(g) false false
+--------------- 674 --------------
+  Sun Oct 06 17:12:00 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 675 --------------
+  Sun Oct 06 17:12:00 EDT 2019
+ProcessKeyBinding 400 when=1570396320295 modifiers=0 code=0 char=67(g) false false
+--------------- 676 --------------
+  Sun Oct 06 17:12:00 EDT 2019
+ProcessKeyBinding 402 when=1570396320413 modifiers=0 code=47 char=67(g) false false
+--------------- 677 --------------
+  Sun Oct 06 17:12:31 EDT 2019
+ProcessKeyBinding 401 when=1570396351499 modifiers=0 code=47 char=67(g) false false
+--------------- 678 --------------
+  Sun Oct 06 17:12:31 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 679 --------------
+  Sun Oct 06 17:12:31 EDT 2019
+ProcessKeyBinding 400 when=1570396351499 modifiers=0 code=0 char=67(g) false false
+--------------- 680 --------------
+  Sun Oct 06 17:12:31 EDT 2019
+ProcessKeyBinding 402 when=1570396351621 modifiers=0 code=47 char=67(g) false false
+--------------- 681 --------------
+  Sun Oct 06 17:12:34 EDT 2019
+ProcessKeyBinding 401 when=1570396354227 modifiers=0 code=47 char=67(g) false false
+--------------- 682 --------------
+  Sun Oct 06 17:12:34 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 683 --------------
+  Sun Oct 06 17:12:34 EDT 2019
+ProcessKeyBinding 400 when=1570396354227 modifiers=0 code=0 char=67(g) false false
+--------------- 684 --------------
+  Sun Oct 06 17:12:44 EDT 2019
+ProcessKeyBinding 401 when=1570396364557 modifiers=0 code=47 char=67(g) false false
+--------------- 685 --------------
+  Sun Oct 06 17:12:44 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 686 --------------
+  Sun Oct 06 17:12:44 EDT 2019
+ProcessKeyBinding 400 when=1570396364557 modifiers=0 code=0 char=67(g) false false
+--------------- 687 --------------
+  Sun Oct 06 17:12:44 EDT 2019
+ProcessKeyBinding 402 when=1570396364676 modifiers=0 code=47 char=67(g) false false
+--------------- 688 --------------
+  Sun Oct 06 17:12:48 EDT 2019
+ProcessKeyBinding 401 when=1570396368173 modifiers=0 code=47 char=67(g) false false
+--------------- 689 --------------
+  Sun Oct 06 17:12:48 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 690 --------------
+  Sun Oct 06 17:12:48 EDT 2019
+ProcessKeyBinding 400 when=1570396368173 modifiers=0 code=0 char=67(g) false false
+--------------- 691 --------------
+  Sun Oct 06 17:12:48 EDT 2019
+ProcessKeyBinding 402 when=1570396368282 modifiers=0 code=47 char=67(g) false false
+--------------- 692 --------------
+  Sun Oct 06 17:12:52 EDT 2019
+ProcessKeyBinding 401 when=1570396372661 modifiers=0 code=56 char=76(v) false false
+--------------- 693 --------------
+  Sun Oct 06 17:12:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 694 --------------
+  Sun Oct 06 17:12:52 EDT 2019
+ProcessKeyBinding 400 when=1570396372661 modifiers=0 code=0 char=76(v) false false
+--------------- 695 --------------
+  Sun Oct 06 17:12:52 EDT 2019
+ProcessKeyBinding 402 when=1570396372774 modifiers=0 code=56 char=76(v) false false
+--------------- 696 --------------
+  Sun Oct 06 17:12:54 EDT 2019
+ProcessKeyBinding 401 when=1570396374261 modifiers=0 code=47 char=67(g) false false
+--------------- 697 --------------
+  Sun Oct 06 17:12:54 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 698 --------------
+  Sun Oct 06 17:12:54 EDT 2019
+ProcessKeyBinding 400 when=1570396374261 modifiers=0 code=0 char=67(g) false false
+--------------- 699 --------------
+  Sun Oct 06 17:12:54 EDT 2019
+ProcessKeyBinding 402 when=1570396374432 modifiers=0 code=47 char=67(g) false false
+--------------- 700 --------------
+  Sun Oct 06 17:12:54 EDT 2019
+ProcessKeyBinding 401 when=1570396374752 modifiers=0 code=56 char=76(v) false false
+--------------- 701 --------------
+  Sun Oct 06 17:12:54 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 702 --------------
+  Sun Oct 06 17:12:54 EDT 2019
+ProcessKeyBinding 400 when=1570396374752 modifiers=0 code=0 char=76(v) false false
+--------------- 703 --------------
+  Sun Oct 06 17:12:54 EDT 2019
+ProcessKeyBinding 402 when=1570396374893 modifiers=0 code=56 char=76(v) false false
+--------------- 704 --------------
+  Sun Oct 06 17:13:00 EDT 2019
+ProcessKeyBinding 401 when=1570396380737 modifiers=0 code=47 char=67(g) false false
+--------------- 705 --------------
+  Sun Oct 06 17:13:00 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 706 --------------
+  Sun Oct 06 17:13:00 EDT 2019
+ProcessKeyBinding 400 when=1570396380737 modifiers=0 code=0 char=67(g) false false
+--------------- 707 --------------
+  Sun Oct 06 17:13:00 EDT 2019
+ProcessKeyBinding 402 when=1570396380878 modifiers=0 code=47 char=67(g) false false
+--------------- 708 --------------
+  Sun Oct 06 17:13:07 EDT 2019
+ProcessKeyBinding 401 when=1570396387327 modifiers=0 code=47 char=67(g) false false
+--------------- 709 --------------
+  Sun Oct 06 17:13:07 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 710 --------------
+  Sun Oct 06 17:13:07 EDT 2019
+ProcessKeyBinding 400 when=1570396387327 modifiers=0 code=0 char=67(g) false false
+--------------- 711 --------------
+  Sun Oct 06 17:13:07 EDT 2019
+ProcessKeyBinding 402 when=1570396387452 modifiers=0 code=47 char=67(g) false false
+--------------- 712 --------------
+  Sun Oct 06 17:13:15 EDT 2019
+ProcessKeyBinding 401 when=1570396395294 modifiers=0 code=47 char=67(g) false false
+--------------- 713 --------------
+  Sun Oct 06 17:13:15 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 714 --------------
+  Sun Oct 06 17:13:15 EDT 2019
+ProcessKeyBinding 400 when=1570396395294 modifiers=0 code=0 char=67(g) false false
+--------------- 715 --------------
+  Sun Oct 06 17:13:36 EDT 2019
+ProcessKeyBinding 401 when=1570396416212 modifiers=0 code=47 char=67(g) false false
+--------------- 716 --------------
+  Sun Oct 06 17:13:36 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 717 --------------
+  Sun Oct 06 17:13:36 EDT 2019
+ProcessKeyBinding 400 when=1570396416212 modifiers=0 code=0 char=67(g) false false
+--------------- 718 --------------
+  Sun Oct 06 17:13:36 EDT 2019
+ProcessKeyBinding 402 when=1570396416335 modifiers=0 code=47 char=67(g) false false
+--------------- 719 --------------
+  Sun Oct 06 17:13:39 EDT 2019
+ProcessKeyBinding 401 when=1570396419958 modifiers=0 code=47 char=67(g) false false
+--------------- 720 --------------
+  Sun Oct 06 17:13:39 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 721 --------------
+  Sun Oct 06 17:13:40 EDT 2019
+ProcessKeyBinding 400 when=1570396419958 modifiers=0 code=0 char=67(g) false false
+--------------- 722 --------------
+  Sun Oct 06 17:13:40 EDT 2019
+ProcessKeyBinding 402 when=1570396420085 modifiers=0 code=47 char=67(g) false false
+--------------- 723 --------------
+  Sun Oct 06 17:13:47 EDT 2019
+ProcessKeyBinding 401 when=1570396427485 modifiers=0 code=56 char=76(v) false false
+--------------- 724 --------------
+  Sun Oct 06 17:13:47 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 725 --------------
+  Sun Oct 06 17:13:47 EDT 2019
+ProcessKeyBinding 400 when=1570396427485 modifiers=0 code=0 char=76(v) false false
+--------------- 726 --------------
+  Sun Oct 06 17:13:47 EDT 2019
+ProcessKeyBinding 402 when=1570396427595 modifiers=0 code=56 char=76(v) false false
+--------------- 727 --------------
+  Sun Oct 06 17:22:09 EDT 2019
+ProcessKeyBinding 401 when=1570396929100 modifiers=80 code=11 char=ffff false false
+--------------- 728 --------------
+  Sun Oct 06 17:22:09 EDT 2019
+ProcessKeyBinding 402 when=1570396929622 modifiers=0 code=11 char=ffff false false
+--------------- 729 --------------
+  Sun Oct 06 17:24:45 EDT 2019
+ProcessKeyBinding 401 when=1570397085814 modifiers=0 code=56 char=76(v) false false
+--------------- 730 --------------
+  Sun Oct 06 17:24:45 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 731 --------------
+  Sun Oct 06 17:24:45 EDT 2019
+ProcessKeyBinding 400 when=1570397085814 modifiers=0 code=0 char=76(v) false false
+--------------- 732 --------------
+  Sun Oct 06 17:24:45 EDT 2019
+ProcessKeyBinding 402 when=1570397085951 modifiers=0 code=56 char=76(v) false false
+--------------- 733 --------------
+  Sun Oct 06 17:24:46 EDT 2019
+ProcessKeyBinding 401 when=1570397086389 modifiers=0 code=47 char=67(g) false false
+--------------- 734 --------------
+  Sun Oct 06 17:24:46 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 735 --------------
+  Sun Oct 06 17:24:46 EDT 2019
+ProcessKeyBinding 400 when=1570397086389 modifiers=0 code=0 char=67(g) false false
+--------------- 736 --------------
+  Sun Oct 06 17:24:46 EDT 2019
+ProcessKeyBinding 402 when=1570397086544 modifiers=0 code=47 char=67(g) false false
+--------------- 737 --------------
+  Sun Oct 06 17:24:52 EDT 2019
+ProcessKeyBinding 401 when=1570397092706 modifiers=0 code=47 char=67(g) false false
+--------------- 738 --------------
+  Sun Oct 06 17:24:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 739 --------------
+  Sun Oct 06 17:24:52 EDT 2019
+ProcessKeyBinding 400 when=1570397092706 modifiers=0 code=0 char=67(g) false false
+--------------- 740 --------------
+  Sun Oct 06 17:24:52 EDT 2019
+ProcessKeyBinding 402 when=1570397092895 modifiers=0 code=47 char=67(g) false false
+--------------- 741 --------------
+  Sun Oct 06 17:24:53 EDT 2019
+ProcessKeyBinding 401 when=1570397093334 modifiers=0 code=56 char=76(v) false false
+--------------- 742 --------------
+  Sun Oct 06 17:24:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 743 --------------
+  Sun Oct 06 17:24:53 EDT 2019
+ProcessKeyBinding 400 when=1570397093334 modifiers=0 code=0 char=76(v) false false
+--------------- 744 --------------
+  Sun Oct 06 17:24:53 EDT 2019
+ProcessKeyBinding 402 when=1570397093528 modifiers=0 code=56 char=76(v) false false
+--------------- 745 --------------
+  Sun Oct 06 17:24:53 EDT 2019
+ProcessKeyBinding 401 when=1570397093856 modifiers=0 code=47 char=67(g) false false
+--------------- 746 --------------
+  Sun Oct 06 17:24:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 747 --------------
+  Sun Oct 06 17:24:53 EDT 2019
+ProcessKeyBinding 400 when=1570397093856 modifiers=0 code=0 char=67(g) false false
+--------------- 748 --------------
+  Sun Oct 06 17:24:54 EDT 2019
+ProcessKeyBinding 402 when=1570397094033 modifiers=0 code=47 char=67(g) false false
+--------------- 749 --------------
+  Sun Oct 06 17:24:54 EDT 2019
+ProcessKeyBinding 401 when=1570397094288 modifiers=0 code=56 char=76(v) false false
+--------------- 750 --------------
+  Sun Oct 06 17:24:54 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 751 --------------
+  Sun Oct 06 17:24:54 EDT 2019
+ProcessKeyBinding 400 when=1570397094288 modifiers=0 code=0 char=76(v) false false
+--------------- 752 --------------
+  Sun Oct 06 17:24:54 EDT 2019
+ProcessKeyBinding 402 when=1570397094475 modifiers=0 code=56 char=76(v) false false
+--------------- 753 --------------
+  Sun Oct 06 17:24:54 EDT 2019
+ProcessKeyBinding 401 when=1570397094733 modifiers=0 code=47 char=67(g) false false
+--------------- 754 --------------
+  Sun Oct 06 17:24:54 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 755 --------------
+  Sun Oct 06 17:24:54 EDT 2019
+ProcessKeyBinding 400 when=1570397094733 modifiers=0 code=0 char=67(g) false false
+--------------- 756 --------------
+  Sun Oct 06 17:24:54 EDT 2019
+ProcessKeyBinding 402 when=1570397094895 modifiers=0 code=47 char=67(g) false false
+--------------- 757 --------------
+  Sun Oct 06 17:24:55 EDT 2019
+ProcessKeyBinding 401 when=1570397095177 modifiers=0 code=56 char=76(v) false false
+--------------- 758 --------------
+  Sun Oct 06 17:24:55 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 759 --------------
+  Sun Oct 06 17:24:55 EDT 2019
+ProcessKeyBinding 400 when=1570397095177 modifiers=0 code=0 char=76(v) false false
+--------------- 760 --------------
+  Sun Oct 06 17:24:55 EDT 2019
+ProcessKeyBinding 402 when=1570397095315 modifiers=0 code=56 char=76(v) false false
+--------------- 761 --------------
+  Sun Oct 06 17:26:49 EDT 2019
+ProcessKeyBinding 401 when=1570397209046 modifiers=80 code=11 char=ffff false false
+--------------- 762 --------------
+  Sun Oct 06 17:26:49 EDT 2019
+ProcessKeyBinding 402 when=1570397209377 modifiers=0 code=11 char=ffff false false
+--------------- 763 --------------
+  Sun Oct 06 17:26:50 EDT 2019
+ProcessKeyBinding 401 when=1570397210003 modifiers=80 code=11 char=ffff false false
+--------------- 764 --------------
+  Sun Oct 06 17:26:50 EDT 2019
+ProcessKeyBinding 402 when=1570397210334 modifiers=0 code=11 char=ffff false false
+--------------- 765 --------------
+  Sun Oct 06 17:27:01 EDT 2019
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+--------------- 766 --------------
+  Sun Oct 06 17:27:03 EDT 2019
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+--------------- 767 --------------
+  Sun Oct 06 17:40:29 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'arch{sch}': , 'Bus_Pin[pin@9].bus'
+--------------- 768 --------------
+  Sun Oct 06 17:40:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 769 --------------
+  Sun Oct 06 17:41:16 EDT 2019
+ProcessKeyBinding 401 when=1570398076444 modifiers=0 code=47 char=67(g) false false
+--------------- 770 --------------
+  Sun Oct 06 17:41:16 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 771 --------------
+  Sun Oct 06 17:41:16 EDT 2019
+ProcessKeyBinding 400 when=1570398076444 modifiers=0 code=0 char=67(g) false false
+--------------- 772 --------------
+  Sun Oct 06 17:41:16 EDT 2019
+ProcessKeyBinding 402 when=1570398076565 modifiers=0 code=47 char=67(g) false false
+--------------- 773 --------------
+  Sun Oct 06 17:41:19 EDT 2019
+ProcessKeyBinding 401 when=1570398079994 modifiers=0 code=56 char=76(v) false false
+--------------- 774 --------------
+  Sun Oct 06 17:41:19 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 775 --------------
+  Sun Oct 06 17:41:20 EDT 2019
+ProcessKeyBinding 400 when=1570398079994 modifiers=0 code=0 char=76(v) false false
+--------------- 776 --------------
+  Sun Oct 06 17:41:30 EDT 2019
+ProcessKeyBinding 401 when=1570398090449 modifiers=0 code=47 char=67(g) false false
+--------------- 777 --------------
+  Sun Oct 06 17:41:30 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 778 --------------
+  Sun Oct 06 17:41:30 EDT 2019
+ProcessKeyBinding 400 when=1570398090449 modifiers=0 code=0 char=67(g) false false
+--------------- 779 --------------
+  Sun Oct 06 17:41:30 EDT 2019
+ProcessKeyBinding 402 when=1570398090578 modifiers=0 code=47 char=67(g) false false
+--------------- 780 --------------
+  Sun Oct 06 17:41:33 EDT 2019
+ProcessKeyBinding 401 when=1570398093036 modifiers=0 code=47 char=67(g) false false
+--------------- 781 --------------
+  Sun Oct 06 17:41:33 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 782 --------------
+  Sun Oct 06 17:41:33 EDT 2019
+ProcessKeyBinding 400 when=1570398093036 modifiers=0 code=0 char=67(g) false false
+--------------- 783 --------------
+  Sun Oct 06 17:41:33 EDT 2019
+ProcessKeyBinding 402 when=1570398093170 modifiers=0 code=47 char=67(g) false false
+--------------- 784 --------------
+  Sun Oct 06 17:41:37 EDT 2019
+ProcessKeyBinding 401 when=1570398097162 modifiers=0 code=56 char=76(v) false false
+--------------- 785 --------------
+  Sun Oct 06 17:41:37 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 786 --------------
+  Sun Oct 06 17:41:37 EDT 2019
+ProcessKeyBinding 400 when=1570398097162 modifiers=0 code=0 char=76(v) false false
+--------------- 787 --------------
+  Sun Oct 06 17:41:37 EDT 2019
+ProcessKeyBinding 402 when=1570398097290 modifiers=0 code=56 char=76(v) false false
+--------------- 788 --------------
+  Sun Oct 06 17:41:42 EDT 2019
+ProcessKeyBinding 401 when=1570398102338 modifiers=0 code=47 char=67(g) false false
+--------------- 789 --------------
+  Sun Oct 06 17:41:42 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 790 --------------
+  Sun Oct 06 17:41:42 EDT 2019
+ProcessKeyBinding 400 when=1570398102338 modifiers=0 code=0 char=67(g) false false
+--------------- 791 --------------
+  Sun Oct 06 17:41:42 EDT 2019
+ProcessKeyBinding 402 when=1570398102466 modifiers=0 code=47 char=67(g) false false
+--------------- 792 --------------
+  Sun Oct 06 17:41:45 EDT 2019
+ProcessKeyBinding 401 when=1570398105820 modifiers=0 code=47 char=67(g) false false
+--------------- 793 --------------
+  Sun Oct 06 17:41:45 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 794 --------------
+  Sun Oct 06 17:41:45 EDT 2019
+ProcessKeyBinding 400 when=1570398105820 modifiers=0 code=0 char=67(g) false false
+--------------- 795 --------------
+  Sun Oct 06 17:41:45 EDT 2019
+ProcessKeyBinding 402 when=1570398105953 modifiers=0 code=47 char=67(g) false false
+--------------- 796 --------------
+  Sun Oct 06 17:45:16 EDT 2019
+ProcessKeyBinding 401 when=1570398316855 modifiers=0 code=47 char=67(g) false false
+--------------- 797 --------------
+  Sun Oct 06 17:45:16 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 798 --------------
+  Sun Oct 06 17:45:16 EDT 2019
+ProcessKeyBinding 400 when=1570398316855 modifiers=0 code=0 char=67(g) false false
+--------------- 799 --------------
+  Sun Oct 06 17:45:30 EDT 2019
+ProcessKeyBinding 401 when=1570398330948 modifiers=0 code=56 char=76(v) false false
+--------------- 800 --------------
+  Sun Oct 06 17:45:30 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 801 --------------
+  Sun Oct 06 17:45:30 EDT 2019
+ProcessKeyBinding 400 when=1570398330948 modifiers=0 code=0 char=76(v) false false
+--------------- 802 --------------
+  Sun Oct 06 17:45:31 EDT 2019
+ProcessKeyBinding 402 when=1570398331062 modifiers=0 code=56 char=76(v) false false
+--------------- 803 --------------
+  Sun Oct 06 17:45:35 EDT 2019
+ProcessKeyBinding 401 when=1570398335639 modifiers=0 code=47 char=67(g) false false
+--------------- 804 --------------
+  Sun Oct 06 17:45:35 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 805 --------------
+  Sun Oct 06 17:45:35 EDT 2019
+ProcessKeyBinding 400 when=1570398335639 modifiers=0 code=0 char=67(g) false false
+--------------- 806 --------------
+  Sun Oct 06 17:45:35 EDT 2019
+ProcessKeyBinding 402 when=1570398335752 modifiers=0 code=47 char=67(g) false false
+--------------- 807 --------------
+  Sun Oct 06 17:45:37 EDT 2019
+ProcessKeyBinding 401 when=1570398337949 modifiers=0 code=47 char=67(g) false false
+--------------- 808 --------------
+  Sun Oct 06 17:45:37 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 809 --------------
+  Sun Oct 06 17:45:37 EDT 2019
+ProcessKeyBinding 400 when=1570398337949 modifiers=0 code=0 char=67(g) false false
+--------------- 810 --------------
+  Sun Oct 06 17:45:38 EDT 2019
+ProcessKeyBinding 402 when=1570398338062 modifiers=0 code=47 char=67(g) false false
+--------------- 811 --------------
+  Sun Oct 06 17:45:50 EDT 2019
+ProcessKeyBinding 401 when=1570398350858 modifiers=0 code=47 char=67(g) false false
+--------------- 812 --------------
+  Sun Oct 06 17:45:50 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 813 --------------
+  Sun Oct 06 17:45:50 EDT 2019
+ProcessKeyBinding 400 when=1570398350858 modifiers=0 code=0 char=67(g) false false
+--------------- 814 --------------
+  Sun Oct 06 17:45:50 EDT 2019
+ProcessKeyBinding 402 when=1570398350975 modifiers=0 code=47 char=67(g) false false
+--------------- 815 --------------
+  Sun Oct 06 17:45:52 EDT 2019
+ProcessKeyBinding 401 when=1570398352651 modifiers=0 code=47 char=67(g) false false
+--------------- 816 --------------
+  Sun Oct 06 17:45:52 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 817 --------------
+  Sun Oct 06 17:45:52 EDT 2019
+ProcessKeyBinding 400 when=1570398352651 modifiers=0 code=0 char=67(g) false false
+--------------- 818 --------------
+  Sun Oct 06 17:46:14 EDT 2019
+ProcessKeyBinding 401 when=1570398374080 modifiers=0 code=47 char=67(g) false false
+--------------- 819 --------------
+  Sun Oct 06 17:46:14 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 820 --------------
+  Sun Oct 06 17:46:14 EDT 2019
+ProcessKeyBinding 400 when=1570398374080 modifiers=0 code=0 char=67(g) false false
+--------------- 821 --------------
+  Sun Oct 06 17:46:14 EDT 2019
+ProcessKeyBinding 402 when=1570398374193 modifiers=0 code=47 char=67(g) false false
+--------------- 822 --------------
+  Sun Oct 06 17:46:18 EDT 2019
+ProcessKeyBinding 401 when=1570398378207 modifiers=0 code=47 char=67(g) false false
+--------------- 823 --------------
+  Sun Oct 06 17:46:18 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 824 --------------
+  Sun Oct 06 17:46:18 EDT 2019
+ProcessKeyBinding 400 when=1570398378207 modifiers=0 code=0 char=67(g) false false
+--------------- 825 --------------
+  Sun Oct 06 17:46:18 EDT 2019
+ProcessKeyBinding 402 when=1570398378332 modifiers=0 code=47 char=67(g) false false
+--------------- 826 --------------
+  Sun Oct 06 17:46:25 EDT 2019
+ProcessKeyBinding 401 when=1570398385510 modifiers=0 code=56 char=76(v) false false
+--------------- 827 --------------
+  Sun Oct 06 17:46:25 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 828 --------------
+  Sun Oct 06 17:46:25 EDT 2019
+ProcessKeyBinding 400 when=1570398385510 modifiers=0 code=0 char=76(v) false false
+--------------- 829 --------------
+  Sun Oct 06 17:46:25 EDT 2019
+ProcessKeyBinding 402 when=1570398385656 modifiers=0 code=56 char=76(v) false false
+--------------- 830 --------------
+  Sun Oct 06 17:46:26 EDT 2019
+ProcessKeyBinding 401 when=1570398386380 modifiers=0 code=47 char=67(g) false false
+--------------- 831 --------------
+  Sun Oct 06 17:46:26 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 832 --------------
+  Sun Oct 06 17:46:26 EDT 2019
+ProcessKeyBinding 400 when=1570398386380 modifiers=0 code=0 char=67(g) false false
+--------------- 833 --------------
+  Sun Oct 06 17:46:26 EDT 2019
+ProcessKeyBinding 402 when=1570398386516 modifiers=0 code=47 char=67(g) false false
+--------------- 834 --------------
+  Sun Oct 06 17:46:27 EDT 2019
+ProcessKeyBinding 401 when=1570398387310 modifiers=0 code=56 char=76(v) false false
+--------------- 835 --------------
+  Sun Oct 06 17:46:27 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 836 --------------
+  Sun Oct 06 17:46:27 EDT 2019
+ProcessKeyBinding 400 when=1570398387310 modifiers=0 code=0 char=76(v) false false
+--------------- 837 --------------
+  Sun Oct 06 17:46:27 EDT 2019
+ProcessKeyBinding 402 when=1570398387498 modifiers=0 code=56 char=76(v) false false
+--------------- 838 --------------
+  Sun Oct 06 17:46:50 EDT 2019
+ProcessKeyBinding 401 when=1570398410312 modifiers=0 code=47 char=67(g) false false
+--------------- 839 --------------
+  Sun Oct 06 17:46:50 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 840 --------------
+  Sun Oct 06 17:46:50 EDT 2019
+ProcessKeyBinding 400 when=1570398410312 modifiers=0 code=0 char=67(g) false false
+--------------- 841 --------------
+  Sun Oct 06 17:46:50 EDT 2019
+ProcessKeyBinding 402 when=1570398410423 modifiers=0 code=47 char=67(g) false false
+--------------- 842 --------------
+  Sun Oct 06 17:46:56 EDT 2019
+ProcessKeyBinding 401 when=1570398416676 modifiers=0 code=56 char=76(v) false false
+--------------- 843 --------------
+  Sun Oct 06 17:46:56 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 844 --------------
+  Sun Oct 06 17:46:56 EDT 2019
+ProcessKeyBinding 400 when=1570398416676 modifiers=0 code=0 char=76(v) false false
+--------------- 845 --------------
+  Sun Oct 06 17:46:56 EDT 2019
+ProcessKeyBinding 402 when=1570398416800 modifiers=0 code=56 char=76(v) false false
+--------------- 846 --------------
+  Sun Oct 06 17:47:00 EDT 2019
+ProcessKeyBinding 401 when=1570398420242 modifiers=0 code=47 char=67(g) false false
+--------------- 847 --------------
+  Sun Oct 06 17:47:00 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 848 --------------
+  Sun Oct 06 17:47:00 EDT 2019
+ProcessKeyBinding 400 when=1570398420242 modifiers=0 code=0 char=67(g) false false
+--------------- 849 --------------
+  Sun Oct 06 17:47:00 EDT 2019
+ProcessKeyBinding 402 when=1570398420378 modifiers=0 code=47 char=67(g) false false
+--------------- 850 --------------
+  Sun Oct 06 17:47:07 EDT 2019
+ProcessKeyBinding 401 when=1570398427033 modifiers=0 code=56 char=76(v) false false
+--------------- 851 --------------
+  Sun Oct 06 17:47:07 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 852 --------------
+  Sun Oct 06 17:47:07 EDT 2019
+ProcessKeyBinding 400 when=1570398427033 modifiers=0 code=0 char=76(v) false false
+--------------- 853 --------------
+  Sun Oct 06 17:47:07 EDT 2019
+ProcessKeyBinding 402 when=1570398427221 modifiers=0 code=56 char=76(v) false false
+--------------- 854 --------------
+  Sun Oct 06 17:47:09 EDT 2019
+ProcessKeyBinding 401 when=1570398429728 modifiers=0 code=47 char=67(g) false false
+--------------- 855 --------------
+  Sun Oct 06 17:47:09 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 856 --------------
+  Sun Oct 06 17:47:09 EDT 2019
+ProcessKeyBinding 400 when=1570398429728 modifiers=0 code=0 char=67(g) false false
+--------------- 857 --------------
+  Sun Oct 06 17:47:09 EDT 2019
+ProcessKeyBinding 402 when=1570398429855 modifiers=0 code=47 char=67(g) false false
+--------------- 858 --------------
+  Sun Oct 06 17:47:13 EDT 2019
+ProcessKeyBinding 401 when=1570398433116 modifiers=0 code=47 char=67(g) false false
+--------------- 859 --------------
+  Sun Oct 06 17:47:13 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 860 --------------
+  Sun Oct 06 17:47:13 EDT 2019
+ProcessKeyBinding 400 when=1570398433116 modifiers=0 code=0 char=67(g) false false
+--------------- 861 --------------
+  Sun Oct 06 17:47:13 EDT 2019
+ProcessKeyBinding 402 when=1570398433232 modifiers=0 code=47 char=67(g) false false
+--------------- 862 --------------
+  Sun Oct 06 17:47:25 EDT 2019
+ProcessKeyBinding 401 when=1570398445866 modifiers=0 code=30 char=30(0) false false
+--------------- 863 --------------
+  Sun Oct 06 17:47:25 EDT 2019
+Menu Activated: Shortcuts | Wire to Poly
+--------------- 864 --------------
+  Sun Oct 06 17:47:25 EDT 2019
+ProcessKeyBinding 400 when=1570398445866 modifiers=0 code=0 char=30(0) false false
+--------------- 865 --------------
+  Sun Oct 06 17:47:25 EDT 2019
+ProcessKeyBinding 402 when=1570398445944 modifiers=0 code=30 char=30(0) false false
+--------------- 866 --------------
+  Sun Oct 06 17:47:26 EDT 2019
+ProcessKeyBinding 401 when=1570398446261 modifiers=40 code=10 char=ffff false false
+--------------- 867 --------------
+  Sun Oct 06 17:47:26 EDT 2019
+ProcessKeyBinding 402 when=1570398446934 modifiers=0 code=10 char=ffff false false
+--------------- 868 --------------
+  Sun Oct 06 17:47:27 EDT 2019
+ProcessKeyBinding 401 when=1570398447777 modifiers=0 code=47 char=67(g) false false
+--------------- 869 --------------
+  Sun Oct 06 17:47:27 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 870 --------------
+  Sun Oct 06 17:47:27 EDT 2019
+ProcessKeyBinding 400 when=1570398447777 modifiers=0 code=0 char=67(g) false false
+--------------- 871 --------------
+  Sun Oct 06 17:48:01 EDT 2019
+ProcessKeyBinding 401 when=1570398481810 modifiers=0 code=47 char=67(g) false false
+--------------- 872 --------------
+  Sun Oct 06 17:48:01 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 873 --------------
+  Sun Oct 06 17:48:01 EDT 2019
+ProcessKeyBinding 400 when=1570398481810 modifiers=0 code=0 char=67(g) false false
+--------------- 874 --------------
+  Sun Oct 06 17:48:01 EDT 2019
+ProcessKeyBinding 402 when=1570398481939 modifiers=0 code=47 char=67(g) false false
+--------------- 875 --------------
+  Sun Oct 06 17:48:04 EDT 2019
+ProcessKeyBinding 401 when=1570398484595 modifiers=0 code=47 char=67(g) false false
+--------------- 876 --------------
+  Sun Oct 06 17:48:04 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 877 --------------
+  Sun Oct 06 17:48:04 EDT 2019
+ProcessKeyBinding 400 when=1570398484595 modifiers=0 code=0 char=67(g) false false
+--------------- 878 --------------
+  Sun Oct 06 17:48:17 EDT 2019
+ProcessKeyBinding 401 when=1570398497505 modifiers=0 code=47 char=67(g) false false
+--------------- 879 --------------
+  Sun Oct 06 17:48:17 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 880 --------------
+  Sun Oct 06 17:48:17 EDT 2019
+ProcessKeyBinding 400 when=1570398497505 modifiers=0 code=0 char=67(g) false false
+--------------- 881 --------------
+  Sun Oct 06 17:48:17 EDT 2019
+ProcessKeyBinding 402 when=1570398497637 modifiers=0 code=47 char=67(g) false false
+--------------- 882 --------------
+  Sun Oct 06 17:48:20 EDT 2019
+ProcessKeyBinding 401 when=1570398500933 modifiers=0 code=56 char=76(v) false false
+--------------- 883 --------------
+  Sun Oct 06 17:48:20 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 884 --------------
+  Sun Oct 06 17:48:20 EDT 2019
+ProcessKeyBinding 400 when=1570398500933 modifiers=0 code=0 char=76(v) false false
+--------------- 885 --------------
+  Sun Oct 06 17:48:21 EDT 2019
+ProcessKeyBinding 402 when=1570398501069 modifiers=0 code=56 char=76(v) false false
+--------------- 886 --------------
+  Sun Oct 06 17:48:25 EDT 2019
+ProcessKeyBinding 401 when=1570398505661 modifiers=0 code=47 char=67(g) false false
+--------------- 887 --------------
+  Sun Oct 06 17:48:25 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 888 --------------
+  Sun Oct 06 17:48:25 EDT 2019
+ProcessKeyBinding 400 when=1570398505661 modifiers=0 code=0 char=67(g) false false
+--------------- 889 --------------
+  Sun Oct 06 17:48:25 EDT 2019
+ProcessKeyBinding 402 when=1570398505780 modifiers=0 code=47 char=67(g) false false
+--------------- 890 --------------
+  Sun Oct 06 17:48:30 EDT 2019
+ProcessKeyBinding 401 when=1570398510153 modifiers=0 code=47 char=67(g) false false
+--------------- 891 --------------
+  Sun Oct 06 17:48:30 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 892 --------------
+  Sun Oct 06 17:48:30 EDT 2019
+ProcessKeyBinding 400 when=1570398510153 modifiers=0 code=0 char=67(g) false false
+--------------- 893 --------------
+  Sun Oct 06 17:48:30 EDT 2019
+ProcessKeyBinding 402 when=1570398510273 modifiers=0 code=47 char=67(g) false false
+--------------- 894 --------------
+  Sun Oct 06 17:48:34 EDT 2019
+ProcessKeyBinding 401 when=1570398514305 modifiers=0 code=47 char=67(g) false false
+--------------- 895 --------------
+  Sun Oct 06 17:48:34 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 896 --------------
+  Sun Oct 06 17:48:34 EDT 2019
+ProcessKeyBinding 400 when=1570398514305 modifiers=0 code=0 char=67(g) false false
+--------------- 897 --------------
+  Sun Oct 06 17:48:34 EDT 2019
+ProcessKeyBinding 402 when=1570398514427 modifiers=0 code=47 char=67(g) false false
+--------------- 898 --------------
+  Sun Oct 06 17:48:39 EDT 2019
+ProcessKeyBinding 401 when=1570398519674 modifiers=0 code=47 char=67(g) false false
+--------------- 899 --------------
+  Sun Oct 06 17:48:39 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 900 --------------
+  Sun Oct 06 17:48:39 EDT 2019
+ProcessKeyBinding 400 when=1570398519674 modifiers=0 code=0 char=67(g) false false
+--------------- 901 --------------
+  Sun Oct 06 17:48:39 EDT 2019
+ProcessKeyBinding 402 when=1570398519809 modifiers=0 code=47 char=67(g) false false
+--------------- 902 --------------
+  Sun Oct 06 17:48:44 EDT 2019
+ProcessKeyBinding 401 when=1570398524708 modifiers=0 code=56 char=76(v) false false
+--------------- 903 --------------
+  Sun Oct 06 17:48:44 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 904 --------------
+  Sun Oct 06 17:48:44 EDT 2019
+ProcessKeyBinding 400 when=1570398524708 modifiers=0 code=0 char=76(v) false false
+--------------- 905 --------------
+  Sun Oct 06 17:48:44 EDT 2019
+ProcessKeyBinding 402 when=1570398524841 modifiers=0 code=56 char=76(v) false false
+--------------- 906 --------------
+  Sun Oct 06 17:48:47 EDT 2019
+ProcessKeyBinding 401 when=1570398527944 modifiers=0 code=47 char=67(g) false false
+--------------- 907 --------------
+  Sun Oct 06 17:48:47 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 908 --------------
+  Sun Oct 06 17:48:47 EDT 2019
+ProcessKeyBinding 400 when=1570398527944 modifiers=0 code=0 char=67(g) false false
+--------------- 909 --------------
+  Sun Oct 06 17:48:48 EDT 2019
+ProcessKeyBinding 402 when=1570398528057 modifiers=0 code=47 char=67(g) false false
+--------------- 910 --------------
+  Sun Oct 06 17:48:51 EDT 2019
+ProcessKeyBinding 401 when=1570398531529 modifiers=0 code=47 char=67(g) false false
+--------------- 911 --------------
+  Sun Oct 06 17:48:51 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 912 --------------
+  Sun Oct 06 17:48:51 EDT 2019
+ProcessKeyBinding 400 when=1570398531529 modifiers=0 code=0 char=67(g) false false
+--------------- 913 --------------
+  Sun Oct 06 17:49:22 EDT 2019
+ProcessKeyBinding 401 when=1570398562346 modifiers=0 code=47 char=67(g) false false
+--------------- 914 --------------
+  Sun Oct 06 17:49:22 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 915 --------------
+  Sun Oct 06 17:49:22 EDT 2019
+ProcessKeyBinding 400 when=1570398562346 modifiers=0 code=0 char=67(g) false false
+--------------- 916 --------------
+  Sun Oct 06 17:49:22 EDT 2019
+ProcessKeyBinding 402 when=1570398562469 modifiers=0 code=47 char=67(g) false false
+--------------- 917 --------------
+  Sun Oct 06 17:49:24 EDT 2019
+ProcessKeyBinding 401 when=1570398564849 modifiers=0 code=47 char=67(g) false false
+--------------- 918 --------------
+  Sun Oct 06 17:49:24 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 919 --------------
+  Sun Oct 06 17:49:24 EDT 2019
+ProcessKeyBinding 400 when=1570398564849 modifiers=0 code=0 char=67(g) false false
+--------------- 920 --------------
+  Sun Oct 06 17:49:33 EDT 2019
+ProcessKeyBinding 401 when=1570398573920 modifiers=0 code=47 char=67(g) false false
+--------------- 921 --------------
+  Sun Oct 06 17:49:33 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 922 --------------
+  Sun Oct 06 17:49:33 EDT 2019
+ProcessKeyBinding 400 when=1570398573920 modifiers=0 code=0 char=67(g) false false
+--------------- 923 --------------
+  Sun Oct 06 17:49:34 EDT 2019
+ProcessKeyBinding 402 when=1570398574045 modifiers=0 code=47 char=67(g) false false
+--------------- 924 --------------
+  Sun Oct 06 17:49:38 EDT 2019
+ProcessKeyBinding 401 when=1570398578412 modifiers=0 code=47 char=67(g) false false
+--------------- 925 --------------
+  Sun Oct 06 17:49:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 926 --------------
+  Sun Oct 06 17:49:38 EDT 2019
+ProcessKeyBinding 400 when=1570398578412 modifiers=0 code=0 char=67(g) false false
+--------------- 927 --------------
+  Sun Oct 06 17:49:38 EDT 2019
+ProcessKeyBinding 402 when=1570398578530 modifiers=0 code=47 char=67(g) false false
+--------------- 928 --------------
+  Sun Oct 06 17:49:42 EDT 2019
+ProcessKeyBinding 401 when=1570398582711 modifiers=0 code=56 char=76(v) false false
+--------------- 929 --------------
+  Sun Oct 06 17:49:42 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 930 --------------
+  Sun Oct 06 17:49:42 EDT 2019
+ProcessKeyBinding 400 when=1570398582711 modifiers=0 code=0 char=76(v) false false
+--------------- 931 --------------
+  Sun Oct 06 17:49:42 EDT 2019
+ProcessKeyBinding 402 when=1570398582830 modifiers=0 code=56 char=76(v) false false
+--------------- 932 --------------
+  Sun Oct 06 17:49:47 EDT 2019
+ProcessKeyBinding 401 when=1570398587116 modifiers=0 code=47 char=67(g) false false
+--------------- 933 --------------
+  Sun Oct 06 17:49:47 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 934 --------------
+  Sun Oct 06 17:49:47 EDT 2019
+ProcessKeyBinding 400 when=1570398587116 modifiers=0 code=0 char=67(g) false false
+--------------- 935 --------------
+  Sun Oct 06 17:49:47 EDT 2019
+ProcessKeyBinding 402 when=1570398587240 modifiers=0 code=47 char=67(g) false false
+--------------- 936 --------------
+  Sun Oct 06 17:49:50 EDT 2019
+ProcessKeyBinding 401 when=1570398590673 modifiers=0 code=47 char=67(g) false false
+--------------- 937 --------------
+  Sun Oct 06 17:49:50 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 938 --------------
+  Sun Oct 06 17:49:50 EDT 2019
+ProcessKeyBinding 400 when=1570398590673 modifiers=0 code=0 char=67(g) false false
+--------------- 939 --------------
+  Sun Oct 06 17:49:50 EDT 2019
+ProcessKeyBinding 402 when=1570398590809 modifiers=0 code=47 char=67(g) false false
+--------------- 940 --------------
+  Sun Oct 06 17:49:56 EDT 2019
+ProcessKeyBinding 401 when=1570398596524 modifiers=0 code=56 char=76(v) false false
+--------------- 941 --------------
+  Sun Oct 06 17:49:56 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 942 --------------
+  Sun Oct 06 17:49:56 EDT 2019
+ProcessKeyBinding 400 when=1570398596524 modifiers=0 code=0 char=76(v) false false
+--------------- 943 --------------
+  Sun Oct 06 17:49:56 EDT 2019
+ProcessKeyBinding 402 when=1570398596659 modifiers=0 code=56 char=76(v) false false
+--------------- 944 --------------
+  Sun Oct 06 17:50:01 EDT 2019
+ProcessKeyBinding 401 when=1570398601485 modifiers=0 code=47 char=67(g) false false
+--------------- 945 --------------
+  Sun Oct 06 17:50:01 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 946 --------------
+  Sun Oct 06 17:50:01 EDT 2019
+ProcessKeyBinding 400 when=1570398601485 modifiers=0 code=0 char=67(g) false false
+--------------- 947 --------------
+  Sun Oct 06 17:50:01 EDT 2019
+ProcessKeyBinding 402 when=1570398601597 modifiers=0 code=47 char=67(g) false false
+--------------- 948 --------------
+  Sun Oct 06 17:50:08 EDT 2019
+ProcessKeyBinding 401 when=1570398608329 modifiers=0 code=47 char=67(g) false false
+--------------- 949 --------------
+  Sun Oct 06 17:50:08 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 950 --------------
+  Sun Oct 06 17:50:08 EDT 2019
+ProcessKeyBinding 400 when=1570398608329 modifiers=0 code=0 char=67(g) false false
+--------------- 951 --------------
+  Sun Oct 06 17:50:08 EDT 2019
+ProcessKeyBinding 402 when=1570398608443 modifiers=0 code=47 char=67(g) false false
+--------------- 952 --------------
+  Sun Oct 06 17:50:10 EDT 2019
+ProcessKeyBinding 401 when=1570398610527 modifiers=0 code=47 char=67(g) false false
+--------------- 953 --------------
+  Sun Oct 06 17:50:10 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 954 --------------
+  Sun Oct 06 17:50:10 EDT 2019
+ProcessKeyBinding 400 when=1570398610527 modifiers=0 code=0 char=67(g) false false
+--------------- 955 --------------
+  Sun Oct 06 17:50:32 EDT 2019
+ProcessKeyBinding 401 when=1570398632996 modifiers=0 code=47 char=67(g) false false
+--------------- 956 --------------
+  Sun Oct 06 17:50:32 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 957 --------------
+  Sun Oct 06 17:50:33 EDT 2019
+ProcessKeyBinding 400 when=1570398632996 modifiers=0 code=0 char=67(g) false false
+--------------- 958 --------------
+  Sun Oct 06 17:50:33 EDT 2019
+ProcessKeyBinding 402 when=1570398633142 modifiers=0 code=47 char=67(g) false false
+--------------- 959 --------------
+  Sun Oct 06 17:50:34 EDT 2019
+ProcessKeyBinding 401 when=1570398634847 modifiers=0 code=47 char=67(g) false false
+--------------- 960 --------------
+  Sun Oct 06 17:50:34 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 961 --------------
+  Sun Oct 06 17:50:34 EDT 2019
+ProcessKeyBinding 400 when=1570398634847 modifiers=0 code=0 char=67(g) false false
+--------------- 962 --------------
+  Sun Oct 06 17:50:43 EDT 2019
+ProcessKeyBinding 401 when=1570398643939 modifiers=0 code=47 char=67(g) false false
+--------------- 963 --------------
+  Sun Oct 06 17:50:43 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 964 --------------
+  Sun Oct 06 17:50:43 EDT 2019
+ProcessKeyBinding 400 when=1570398643939 modifiers=0 code=0 char=67(g) false false
+--------------- 965 --------------
+  Sun Oct 06 17:50:44 EDT 2019
+ProcessKeyBinding 402 when=1570398644051 modifiers=0 code=47 char=67(g) false false
+--------------- 966 --------------
+  Sun Oct 06 17:50:48 EDT 2019
+ProcessKeyBinding 401 when=1570398648244 modifiers=0 code=47 char=67(g) false false
+--------------- 967 --------------
+  Sun Oct 06 17:50:48 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 968 --------------
+  Sun Oct 06 17:50:48 EDT 2019
+ProcessKeyBinding 400 when=1570398648244 modifiers=0 code=0 char=67(g) false false
+--------------- 969 --------------
+  Sun Oct 06 17:50:48 EDT 2019
+ProcessKeyBinding 402 when=1570398648380 modifiers=0 code=47 char=67(g) false false
+--------------- 970 --------------
+  Sun Oct 06 17:50:54 EDT 2019
+ProcessKeyBinding 401 when=1570398654689 modifiers=0 code=56 char=76(v) false false
+--------------- 971 --------------
+  Sun Oct 06 17:50:54 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 972 --------------
+  Sun Oct 06 17:50:54 EDT 2019
+ProcessKeyBinding 400 when=1570398654689 modifiers=0 code=0 char=76(v) false false
+--------------- 973 --------------
+  Sun Oct 06 17:50:54 EDT 2019
+ProcessKeyBinding 402 when=1570398654791 modifiers=0 code=56 char=76(v) false false
+--------------- 974 --------------
+  Sun Oct 06 17:51:02 EDT 2019
+ProcessKeyBinding 401 when=1570398662040 modifiers=0 code=47 char=67(g) false false
+--------------- 975 --------------
+  Sun Oct 06 17:51:02 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 976 --------------
+  Sun Oct 06 17:51:02 EDT 2019
+ProcessKeyBinding 400 when=1570398662040 modifiers=0 code=0 char=67(g) false false
+--------------- 977 --------------
+  Sun Oct 06 17:51:02 EDT 2019
+ProcessKeyBinding 402 when=1570398662162 modifiers=0 code=47 char=67(g) false false
+--------------- 978 --------------
+  Sun Oct 06 17:51:09 EDT 2019
+ProcessKeyBinding 401 when=1570398669432 modifiers=0 code=47 char=67(g) false false
+--------------- 979 --------------
+  Sun Oct 06 17:51:09 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 980 --------------
+  Sun Oct 06 17:51:09 EDT 2019
+ProcessKeyBinding 400 when=1570398669432 modifiers=0 code=0 char=67(g) false false
+--------------- 981 --------------
+  Sun Oct 06 17:51:09 EDT 2019
+ProcessKeyBinding 402 when=1570398669581 modifiers=0 code=47 char=67(g) false false
+--------------- 982 --------------
+  Sun Oct 06 17:51:11 EDT 2019
+ProcessKeyBinding 401 when=1570398671326 modifiers=0 code=47 char=67(g) false false
+--------------- 983 --------------
+  Sun Oct 06 17:51:11 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 984 --------------
+  Sun Oct 06 17:51:11 EDT 2019
+ProcessKeyBinding 400 when=1570398671326 modifiers=0 code=0 char=67(g) false false
+--------------- 985 --------------
+  Sun Oct 06 17:51:11 EDT 2019
+ProcessKeyBinding 402 when=1570398671482 modifiers=0 code=47 char=67(g) false false
+--------------- 986 --------------
+  Sun Oct 06 17:51:11 EDT 2019
+ProcessKeyBinding 401 when=1570398671849 modifiers=0 code=56 char=76(v) false false
+--------------- 987 --------------
+  Sun Oct 06 17:51:11 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 988 --------------
+  Sun Oct 06 17:51:11 EDT 2019
+ProcessKeyBinding 400 when=1570398671849 modifiers=0 code=0 char=76(v) false false
+--------------- 989 --------------
+  Sun Oct 06 17:51:11 EDT 2019
+ProcessKeyBinding 402 when=1570398671998 modifiers=0 code=56 char=76(v) false false
+--------------- 990 --------------
+  Sun Oct 06 17:51:12 EDT 2019
+ProcessKeyBinding 401 when=1570398672314 modifiers=0 code=47 char=67(g) false false
+--------------- 991 --------------
+  Sun Oct 06 17:51:12 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 992 --------------
+  Sun Oct 06 17:51:12 EDT 2019
+ProcessKeyBinding 400 when=1570398672314 modifiers=0 code=0 char=67(g) false false
+--------------- 993 --------------
+  Sun Oct 06 17:51:12 EDT 2019
+ProcessKeyBinding 402 when=1570398672460 modifiers=0 code=47 char=67(g) false false
+--------------- 994 --------------
+  Sun Oct 06 17:51:21 EDT 2019
+ProcessKeyBinding 401 when=1570398681599 modifiers=0 code=56 char=76(v) false false
+--------------- 995 --------------
+  Sun Oct 06 17:51:21 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 996 --------------
+  Sun Oct 06 17:51:21 EDT 2019
+ProcessKeyBinding 400 when=1570398681599 modifiers=0 code=0 char=76(v) false false
+--------------- 997 --------------
+  Sun Oct 06 17:51:21 EDT 2019
+ProcessKeyBinding 402 when=1570398681728 modifiers=0 code=56 char=76(v) false false
+--------------- 998 --------------
+  Sun Oct 06 17:51:34 EDT 2019
+ProcessKeyBinding 401 when=1570398694449 modifiers=0 code=47 char=67(g) false false
+--------------- 999 --------------
+  Sun Oct 06 17:51:34 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1000 --------------
+  Sun Oct 06 17:51:34 EDT 2019
+ProcessKeyBinding 400 when=1570398694449 modifiers=0 code=0 char=67(g) false false
+--------------- 1001 --------------
+  Sun Oct 06 17:51:34 EDT 2019
+ProcessKeyBinding 402 when=1570398694574 modifiers=0 code=47 char=67(g) false false
+--------------- 1002 --------------
+  Sun Oct 06 17:51:38 EDT 2019
+ProcessKeyBinding 401 when=1570398698206 modifiers=0 code=47 char=67(g) false false
+--------------- 1003 --------------
+  Sun Oct 06 17:51:38 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1004 --------------
+  Sun Oct 06 17:51:38 EDT 2019
+ProcessKeyBinding 400 when=1570398698206 modifiers=0 code=0 char=67(g) false false
+--------------- 1005 --------------
+  Sun Oct 06 17:51:38 EDT 2019
+ProcessKeyBinding 402 when=1570398698347 modifiers=0 code=47 char=67(g) false false
+--------------- 1006 --------------
+  Sun Oct 06 17:51:41 EDT 2019
+ProcessKeyBinding 401 when=1570398701750 modifiers=0 code=47 char=67(g) false false
+--------------- 1007 --------------
+  Sun Oct 06 17:51:41 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1008 --------------
+  Sun Oct 06 17:51:41 EDT 2019
+ProcessKeyBinding 400 when=1570398701750 modifiers=0 code=0 char=67(g) false false
+--------------- 1009 --------------
+  Sun Oct 06 17:52:09 EDT 2019
+ProcessKeyBinding 401 when=1570398729711 modifiers=0 code=47 char=67(g) false false
+--------------- 1010 --------------
+  Sun Oct 06 17:52:09 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1011 --------------
+  Sun Oct 06 17:52:09 EDT 2019
+ProcessKeyBinding 400 when=1570398729711 modifiers=0 code=0 char=67(g) false false
+--------------- 1012 --------------
+  Sun Oct 06 17:52:09 EDT 2019
+ProcessKeyBinding 402 when=1570398729836 modifiers=0 code=47 char=67(g) false false
+--------------- 1013 --------------
+  Sun Oct 06 17:52:13 EDT 2019
+ProcessKeyBinding 401 when=1570398733491 modifiers=0 code=47 char=67(g) false false
+--------------- 1014 --------------
+  Sun Oct 06 17:52:13 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1015 --------------
+  Sun Oct 06 17:52:13 EDT 2019
+ProcessKeyBinding 400 when=1570398733491 modifiers=0 code=0 char=67(g) false false
+--------------- 1016 --------------
+  Sun Oct 06 17:52:20 EDT 2019
+ProcessKeyBinding 401 when=1570398740272 modifiers=0 code=47 char=67(g) false false
+--------------- 1017 --------------
+  Sun Oct 06 17:52:20 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1018 --------------
+  Sun Oct 06 17:52:20 EDT 2019
+ProcessKeyBinding 400 when=1570398740272 modifiers=0 code=0 char=67(g) false false
+--------------- 1019 --------------
+  Sun Oct 06 17:52:20 EDT 2019
+ProcessKeyBinding 402 when=1570398740390 modifiers=0 code=47 char=67(g) false false
+--------------- 1020 --------------
+  Sun Oct 06 17:52:25 EDT 2019
+ProcessKeyBinding 401 when=1570398745037 modifiers=0 code=47 char=67(g) false false
+--------------- 1021 --------------
+  Sun Oct 06 17:52:25 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1022 --------------
+  Sun Oct 06 17:52:25 EDT 2019
+ProcessKeyBinding 400 when=1570398745037 modifiers=0 code=0 char=67(g) false false
+--------------- 1023 --------------
+  Sun Oct 06 17:52:25 EDT 2019
+ProcessKeyBinding 402 when=1570398745149 modifiers=0 code=47 char=67(g) false false
+--------------- 1024 --------------
+  Sun Oct 06 17:52:28 EDT 2019
+ProcessKeyBinding 401 when=1570398748443 modifiers=0 code=56 char=76(v) false false
+--------------- 1025 --------------
+  Sun Oct 06 17:52:28 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 1026 --------------
+  Sun Oct 06 17:52:28 EDT 2019
+ProcessKeyBinding 400 when=1570398748443 modifiers=0 code=0 char=76(v) false false
+--------------- 1027 --------------
+  Sun Oct 06 17:52:28 EDT 2019
+ProcessKeyBinding 402 when=1570398748556 modifiers=0 code=56 char=76(v) false false
+--------------- 1028 --------------
+  Sun Oct 06 17:52:35 EDT 2019
+ProcessKeyBinding 401 when=1570398755977 modifiers=0 code=47 char=67(g) false false
+--------------- 1029 --------------
+  Sun Oct 06 17:52:35 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1030 --------------
+  Sun Oct 06 17:52:36 EDT 2019
+ProcessKeyBinding 400 when=1570398755977 modifiers=0 code=0 char=67(g) false false
+--------------- 1031 --------------
+  Sun Oct 06 17:52:36 EDT 2019
+ProcessKeyBinding 402 when=1570398756082 modifiers=0 code=47 char=67(g) false false
+--------------- 1032 --------------
+  Sun Oct 06 17:52:40 EDT 2019
+ProcessKeyBinding 401 when=1570398760863 modifiers=0 code=47 char=67(g) false false
+--------------- 1033 --------------
+  Sun Oct 06 17:52:40 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1034 --------------
+  Sun Oct 06 17:52:40 EDT 2019
+ProcessKeyBinding 400 when=1570398760863 modifiers=0 code=0 char=67(g) false false
+--------------- 1035 --------------
+  Sun Oct 06 17:52:40 EDT 2019
+ProcessKeyBinding 402 when=1570398760969 modifiers=0 code=47 char=67(g) false false
+--------------- 1036 --------------
+  Sun Oct 06 17:52:47 EDT 2019
+ProcessKeyBinding 401 when=1570398767211 modifiers=0 code=47 char=67(g) false false
+--------------- 1037 --------------
+  Sun Oct 06 17:52:47 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1038 --------------
+  Sun Oct 06 17:52:47 EDT 2019
+ProcessKeyBinding 400 when=1570398767211 modifiers=0 code=0 char=67(g) false false
+--------------- 1039 --------------
+  Sun Oct 06 17:53:06 EDT 2019
+ProcessKeyBinding 401 when=1570398786087 modifiers=0 code=56 char=76(v) false false
+--------------- 1040 --------------
+  Sun Oct 06 17:53:06 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 1041 --------------
+  Sun Oct 06 17:53:06 EDT 2019
+ProcessKeyBinding 400 when=1570398786087 modifiers=0 code=0 char=76(v) false false
+--------------- 1042 --------------
+  Sun Oct 06 17:53:06 EDT 2019
+ProcessKeyBinding 402 when=1570398786238 modifiers=0 code=56 char=76(v) false false
+--------------- 1043 --------------
+  Sun Oct 06 17:53:10 EDT 2019
+ProcessKeyBinding 401 when=1570398790438 modifiers=0 code=47 char=67(g) false false
+--------------- 1044 --------------
+  Sun Oct 06 17:53:10 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1045 --------------
+  Sun Oct 06 17:53:10 EDT 2019
+ProcessKeyBinding 400 when=1570398790438 modifiers=0 code=0 char=67(g) false false
+--------------- 1046 --------------
+  Sun Oct 06 17:53:10 EDT 2019
+ProcessKeyBinding 402 when=1570398790570 modifiers=0 code=47 char=67(g) false false
+--------------- 1047 --------------
+  Sun Oct 06 17:53:14 EDT 2019
+ProcessKeyBinding 401 when=1570398794745 modifiers=0 code=47 char=67(g) false false
+--------------- 1048 --------------
+  Sun Oct 06 17:53:14 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1049 --------------
+  Sun Oct 06 17:53:14 EDT 2019
+ProcessKeyBinding 400 when=1570398794745 modifiers=0 code=0 char=67(g) false false
+--------------- 1050 --------------
+  Sun Oct 06 17:53:14 EDT 2019
+ProcessKeyBinding 402 when=1570398794880 modifiers=0 code=47 char=67(g) false false
+--------------- 1051 --------------
+  Sun Oct 06 17:53:46 EDT 2019
+ProcessKeyBinding 401 when=1570398826567 modifiers=0 code=47 char=67(g) false false
+--------------- 1052 --------------
+  Sun Oct 06 17:53:46 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1053 --------------
+  Sun Oct 06 17:53:46 EDT 2019
+ProcessKeyBinding 400 when=1570398826567 modifiers=0 code=0 char=67(g) false false
+--------------- 1054 --------------
+  Sun Oct 06 17:53:46 EDT 2019
+ProcessKeyBinding 402 when=1570398826686 modifiers=0 code=47 char=67(g) false false
+--------------- 1055 --------------
+  Sun Oct 06 17:53:48 EDT 2019
+ProcessKeyBinding 401 when=1570398828258 modifiers=0 code=47 char=67(g) false false
+--------------- 1056 --------------
+  Sun Oct 06 17:53:48 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1057 --------------
+  Sun Oct 06 17:53:48 EDT 2019
+ProcessKeyBinding 400 when=1570398828258 modifiers=0 code=0 char=67(g) false false
+--------------- 1058 --------------
+  Sun Oct 06 17:53:57 EDT 2019
+ProcessKeyBinding 401 when=1570398837648 modifiers=0 code=47 char=67(g) false false
+--------------- 1059 --------------
+  Sun Oct 06 17:53:57 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1060 --------------
+  Sun Oct 06 17:53:57 EDT 2019
+ProcessKeyBinding 400 when=1570398837648 modifiers=0 code=0 char=67(g) false false
+--------------- 1061 --------------
+  Sun Oct 06 17:53:57 EDT 2019
+ProcessKeyBinding 402 when=1570398837762 modifiers=0 code=47 char=67(g) false false
+--------------- 1062 --------------
+  Sun Oct 06 17:54:04 EDT 2019
+ProcessKeyBinding 401 when=1570398844121 modifiers=0 code=47 char=67(g) false false
+--------------- 1063 --------------
+  Sun Oct 06 17:54:04 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1064 --------------
+  Sun Oct 06 17:54:04 EDT 2019
+ProcessKeyBinding 400 when=1570398844121 modifiers=0 code=0 char=67(g) false false
+--------------- 1065 --------------
+  Sun Oct 06 17:54:04 EDT 2019
+ProcessKeyBinding 402 when=1570398844255 modifiers=0 code=47 char=67(g) false false
+--------------- 1066 --------------
+  Sun Oct 06 17:54:10 EDT 2019
+ProcessKeyBinding 401 when=1570398850412 modifiers=0 code=56 char=76(v) false false
+--------------- 1067 --------------
+  Sun Oct 06 17:54:10 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 1068 --------------
+  Sun Oct 06 17:54:10 EDT 2019
+ProcessKeyBinding 400 when=1570398850412 modifiers=0 code=0 char=76(v) false false
+--------------- 1069 --------------
+  Sun Oct 06 17:54:10 EDT 2019
+ProcessKeyBinding 402 when=1570398850561 modifiers=0 code=56 char=76(v) false false
+--------------- 1070 --------------
+  Sun Oct 06 17:54:11 EDT 2019
+ProcessKeyBinding 401 when=1570398851960 modifiers=0 code=47 char=67(g) false false
+--------------- 1071 --------------
+  Sun Oct 06 17:54:11 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1072 --------------
+  Sun Oct 06 17:54:11 EDT 2019
+ProcessKeyBinding 400 when=1570398851960 modifiers=0 code=0 char=67(g) false false
+--------------- 1073 --------------
+  Sun Oct 06 17:54:12 EDT 2019
+ProcessKeyBinding 402 when=1570398852105 modifiers=0 code=47 char=67(g) false false
+--------------- 1074 --------------
+  Sun Oct 06 17:54:12 EDT 2019
+ProcessKeyBinding 401 when=1570398852441 modifiers=0 code=56 char=76(v) false false
+--------------- 1075 --------------
+  Sun Oct 06 17:54:12 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 1076 --------------
+  Sun Oct 06 17:54:12 EDT 2019
+ProcessKeyBinding 400 when=1570398852441 modifiers=0 code=0 char=76(v) false false
+--------------- 1077 --------------
+  Sun Oct 06 17:54:12 EDT 2019
+ProcessKeyBinding 402 when=1570398852560 modifiers=0 code=56 char=76(v) false false
+--------------- 1078 --------------
+  Sun Oct 06 17:54:18 EDT 2019
+ProcessKeyBinding 401 when=1570398858543 modifiers=0 code=47 char=67(g) false false
+--------------- 1079 --------------
+  Sun Oct 06 17:54:18 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1080 --------------
+  Sun Oct 06 17:54:18 EDT 2019
+ProcessKeyBinding 400 when=1570398858543 modifiers=0 code=0 char=67(g) false false
+--------------- 1081 --------------
+  Sun Oct 06 17:54:18 EDT 2019
+ProcessKeyBinding 402 when=1570398858655 modifiers=0 code=47 char=67(g) false false
+--------------- 1082 --------------
+  Sun Oct 06 17:54:24 EDT 2019
+ProcessKeyBinding 401 when=1570398864162 modifiers=0 code=47 char=67(g) false false
+--------------- 1083 --------------
+  Sun Oct 06 17:54:24 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1084 --------------
+  Sun Oct 06 17:54:24 EDT 2019
+ProcessKeyBinding 400 when=1570398864162 modifiers=0 code=0 char=67(g) false false
+--------------- 1085 --------------
+  Sun Oct 06 17:54:24 EDT 2019
+ProcessKeyBinding 402 when=1570398864273 modifiers=0 code=47 char=67(g) false false
+--------------- 1086 --------------
+  Sun Oct 06 17:54:28 EDT 2019
+ProcessKeyBinding 401 when=1570398868596 modifiers=0 code=47 char=67(g) false false
+--------------- 1087 --------------
+  Sun Oct 06 17:54:28 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1088 --------------
+  Sun Oct 06 17:54:28 EDT 2019
+ProcessKeyBinding 400 when=1570398868596 modifiers=0 code=0 char=67(g) false false
+--------------- 1089 --------------
+  Sun Oct 06 17:54:51 EDT 2019
+ProcessKeyBinding 401 when=1570398891298 modifiers=0 code=56 char=76(v) false false
+--------------- 1090 --------------
+  Sun Oct 06 17:54:51 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 1091 --------------
+  Sun Oct 06 17:54:51 EDT 2019
+ProcessKeyBinding 400 when=1570398891298 modifiers=0 code=0 char=76(v) false false
+--------------- 1092 --------------
+  Sun Oct 06 17:54:51 EDT 2019
+ProcessKeyBinding 402 when=1570398891427 modifiers=0 code=56 char=76(v) false false
+--------------- 1093 --------------
+  Sun Oct 06 17:55:00 EDT 2019
+ProcessKeyBinding 401 when=1570398900069 modifiers=400 code=47 char=67(g) false false
+--------------- 1094 --------------
+  Sun Oct 06 17:55:00 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1095 --------------
+  Sun Oct 06 17:55:00 EDT 2019
+ProcessKeyBinding 400 when=1570398900069 modifiers=400 code=0 char=67(g) false false
+--------------- 1096 --------------
+  Sun Oct 06 17:55:00 EDT 2019
+ProcessKeyBinding 402 when=1570398900214 modifiers=0 code=47 char=67(g) false false
+--------------- 1097 --------------
+  Sun Oct 06 17:55:03 EDT 2019
+ProcessKeyBinding 401 when=1570398903189 modifiers=0 code=47 char=67(g) false false
+--------------- 1098 --------------
+  Sun Oct 06 17:55:03 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1099 --------------
+  Sun Oct 06 17:55:03 EDT 2019
+ProcessKeyBinding 400 when=1570398903189 modifiers=0 code=0 char=67(g) false false
+--------------- 1100 --------------
+  Sun Oct 06 17:55:03 EDT 2019
+ProcessKeyBinding 402 when=1570398903311 modifiers=0 code=47 char=67(g) false false
+--------------- 1101 --------------
+  Sun Oct 06 17:55:26 EDT 2019
+ProcessKeyBinding 401 when=1570398926449 modifiers=0 code=47 char=67(g) false false
+--------------- 1102 --------------
+  Sun Oct 06 17:55:26 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1103 --------------
+  Sun Oct 06 17:55:26 EDT 2019
+ProcessKeyBinding 400 when=1570398926449 modifiers=0 code=0 char=67(g) false false
+--------------- 1104 --------------
+  Sun Oct 06 17:55:26 EDT 2019
+ProcessKeyBinding 402 when=1570398926571 modifiers=0 code=47 char=67(g) false false
+--------------- 1105 --------------
+  Sun Oct 06 17:55:28 EDT 2019
+ProcessKeyBinding 401 when=1570398928229 modifiers=0 code=47 char=67(g) false false
+--------------- 1106 --------------
+  Sun Oct 06 17:55:28 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1107 --------------
+  Sun Oct 06 17:55:28 EDT 2019
+ProcessKeyBinding 400 when=1570398928229 modifiers=0 code=0 char=67(g) false false
+--------------- 1108 --------------
+  Sun Oct 06 17:55:34 EDT 2019
+ProcessKeyBinding 401 when=1570398934506 modifiers=0 code=47 char=67(g) false false
+--------------- 1109 --------------
+  Sun Oct 06 17:55:34 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1110 --------------
+  Sun Oct 06 17:55:34 EDT 2019
+ProcessKeyBinding 400 when=1570398934506 modifiers=0 code=0 char=67(g) false false
+--------------- 1111 --------------
+  Sun Oct 06 17:55:34 EDT 2019
+ProcessKeyBinding 402 when=1570398934619 modifiers=0 code=47 char=67(g) false false
+--------------- 1112 --------------
+  Sun Oct 06 17:55:37 EDT 2019
+ProcessKeyBinding 401 when=1570398937814 modifiers=0 code=47 char=67(g) false false
+--------------- 1113 --------------
+  Sun Oct 06 17:55:37 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1114 --------------
+  Sun Oct 06 17:55:37 EDT 2019
+ProcessKeyBinding 400 when=1570398937814 modifiers=0 code=0 char=67(g) false false
+--------------- 1115 --------------
+  Sun Oct 06 17:55:37 EDT 2019
+ProcessKeyBinding 402 when=1570398937917 modifiers=0 code=47 char=67(g) false false
+--------------- 1116 --------------
+  Sun Oct 06 17:55:42 EDT 2019
+ProcessKeyBinding 401 when=1570398942840 modifiers=0 code=56 char=76(v) false false
+--------------- 1117 --------------
+  Sun Oct 06 17:55:42 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 1118 --------------
+  Sun Oct 06 17:55:42 EDT 2019
+ProcessKeyBinding 400 when=1570398942840 modifiers=0 code=0 char=76(v) false false
+--------------- 1119 --------------
+  Sun Oct 06 17:55:42 EDT 2019
+ProcessKeyBinding 402 when=1570398942973 modifiers=0 code=56 char=76(v) false false
+--------------- 1120 --------------
+  Sun Oct 06 17:55:53 EDT 2019
+ProcessKeyBinding 401 when=1570398953360 modifiers=0 code=47 char=67(g) false false
+--------------- 1121 --------------
+  Sun Oct 06 17:55:53 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1122 --------------
+  Sun Oct 06 17:55:53 EDT 2019
+ProcessKeyBinding 400 when=1570398953360 modifiers=0 code=0 char=67(g) false false
+--------------- 1123 --------------
+  Sun Oct 06 17:55:53 EDT 2019
+ProcessKeyBinding 402 when=1570398953488 modifiers=0 code=47 char=67(g) false false
+--------------- 1124 --------------
+  Sun Oct 06 17:55:58 EDT 2019
+ProcessKeyBinding 401 when=1570398958662 modifiers=0 code=47 char=67(g) false false
+--------------- 1125 --------------
+  Sun Oct 06 17:55:58 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1126 --------------
+  Sun Oct 06 17:55:58 EDT 2019
+ProcessKeyBinding 400 when=1570398958662 modifiers=0 code=0 char=67(g) false false
+--------------- 1127 --------------
+  Sun Oct 06 17:55:58 EDT 2019
+ProcessKeyBinding 402 when=1570398958785 modifiers=0 code=47 char=67(g) false false
+--------------- 1128 --------------
+  Sun Oct 06 17:56:06 EDT 2019
+ProcessKeyBinding 401 when=1570398966652 modifiers=0 code=47 char=67(g) false false
+--------------- 1129 --------------
+  Sun Oct 06 17:56:06 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1130 --------------
+  Sun Oct 06 17:56:06 EDT 2019
+ProcessKeyBinding 400 when=1570398966652 modifiers=0 code=0 char=67(g) false false
+--------------- 1131 --------------
+  Sun Oct 06 17:56:20 EDT 2019
+ProcessKeyBinding 401 when=1570398980048 modifiers=0 code=47 char=67(g) false false
+--------------- 1132 --------------
+  Sun Oct 06 17:56:20 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1133 --------------
+  Sun Oct 06 17:56:20 EDT 2019
+ProcessKeyBinding 400 when=1570398980048 modifiers=0 code=0 char=67(g) false false
+--------------- 1134 --------------
+  Sun Oct 06 17:56:20 EDT 2019
+ProcessKeyBinding 402 when=1570398980174 modifiers=0 code=47 char=67(g) false false
+--------------- 1135 --------------
+  Sun Oct 06 17:56:29 EDT 2019
+ProcessKeyBinding 401 when=1570398989100 modifiers=0 code=56 char=76(v) false false
+--------------- 1136 --------------
+  Sun Oct 06 17:56:29 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 1137 --------------
+  Sun Oct 06 17:56:29 EDT 2019
+ProcessKeyBinding 400 when=1570398989100 modifiers=0 code=0 char=76(v) false false
+--------------- 1138 --------------
+  Sun Oct 06 17:56:29 EDT 2019
+ProcessKeyBinding 402 when=1570398989217 modifiers=0 code=56 char=76(v) false false
+--------------- 1139 --------------
+  Sun Oct 06 17:56:33 EDT 2019
+ProcessKeyBinding 401 when=1570398993696 modifiers=0 code=47 char=67(g) false false
+--------------- 1140 --------------
+  Sun Oct 06 17:56:33 EDT 2019
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 1141 --------------
+  Sun Oct 06 17:56:33 EDT 2019
+ProcessKeyBinding 400 when=1570398993696 modifiers=0 code=0 char=67(g) false false
+--------------- 1142 --------------
+  Sun Oct 06 17:56:33 EDT 2019
+ProcessKeyBinding 402 when=1570398993808 modifiers=0 code=47 char=67(g) false false
